@@ -1,0 +1,6662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spoiler set="Alpha Reimagined">
+  <card>
+    <name>Wandering Mage</name>
+    <cost>3SS</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Elemental Wizard </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Hexproof from nonsnow
+S, T: Wandering Mage deals 2 damage to any target.
+2SS, T: Return target snow card from your graveyard to the battlefield if its a permanent, otherwise put it to your hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>1/360</number>
+  </card>
+  <card>
+    <name>Adarkar Unicorn</name>
+    <cost>W</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Unicorn </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Hexproof from nonsnow
+S: Adarkar Unicorn gets +1/+1 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>2/360</number>
+  </card>
+  <card>
+    <name>Alabaster Potion</name>
+    <cost>12/W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>X, T, Sacrifice Alabaster Potion: Return target creature card with mana value X or less from your graveyard to the battlefield. If you do, put a +1/+1 counter on it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>3/360</number>
+  </card>
+  <card>
+    <name>Animate Wall</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+At the beginning of combat on your turn you may pay 1W. If you do, Animate Wall gets +3/+0, and loses defender until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>4/360</number>
+  </card>
+  <card>
+    <name>Armageddon</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Exile target permanent.
+Flashback 4WW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>5/360</number>
+  </card>
+  <card>
+    <name>Army of Allah</name>
+    <cost>X1W</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Army of Allah enters with X +1/+1 counters on it.
+At the beginning of combat on your turn, you may pay 1W. If you do, Army of Allah becomes a 0/0 creature with haste and indestructible until end of turn. It’s still an enchantment.
+Whenever you cast a Knight spell, put a +1/+1 counter on Army of Allah.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>6/360</number>
+  </card>
+  <card>
+    <name>Balance</name>
+    <cost>W</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As an additional cost to cast Balance, exile a creature you control.
+Exile target creature an opponent controls.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>7/360</number>
+  </card>
+  <card>
+    <name>Benalish Hero</name>
+    <cost>2W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight Hero </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Vigilance
+T, Sacrifice Benalish Hero: Prevent all combat damage that nonknights would deal this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>8/360</number>
+  </card>
+  <card>
+    <name>Black Knight</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>First strike
+Other Knight creatures you control get +1/+0</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>9/360</number>
+  </card>
+  <card>
+    <name>Blessing</name>
+    <cost>X1W</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Overload X1WW (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Put X +1/+1 counters on target creature you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>10/360</number>
+  </card>
+  <card>
+    <name>Castle</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Knight Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+When Castle enters, if WW was spent to cast it, create a 2/2 white Knight creature token.
+Knight creatures you control get +1/+1.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>11/360</number>
+  </card>
+  <card>
+    <name>Circle of Protection: White</name>
+    <cost>2W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Circle of Protection: White enters, scry 2.
+You have ward 1.
+T, Sacrifice Circle of Protection: White: Destroy target artifact or enchantment.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>12/360</number>
+  </card>
+  <card>
+    <name>Crusade</name>
+    <cost>2/W2/W</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Crusade enters, if WW was spent to cast it, create a 2/2 white Knight creature token.
+T: Creatures you control get +1/+1 until end of turn.
+1WW: Untap Crusade.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>13/360</number>
+  </card>
+  <card>
+    <name>Dancing Scimitar</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, first strike, ward 1
+Equipped creature gets +2/+2 and has first strike and ward 1.
+Equip 3
+Crew 1 (This card can’t be attached to a creature while it is a creature.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>14/360</number>
+  </card>
+  <card>
+    <name>Death Ward</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose two:
+—Exile target creature card from a graveyard.
+—Regenerate target creature.
+—Target creature gains protection from black or red until end of turn.
+—Gain 4 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>15/360</number>
+  </card>
+  <card>
+    <name>Disenchant</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Destroy target artifact or enchantment.
+Flashback 4W (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>16/360</number>
+  </card>
+  <card>
+    <name>Divine Transformation</name>
+    <cost>2WW</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature gets +3/+3, has vigilance and flying, and is an Angel in addition to its other creature types.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>17/360</number>
+  </card>
+  <card>
+    <name>Farmstead</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Human </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Farmstead enters, create a 1/1 white Human creature token for each plains you control.
+1W, T: Creatures you control get +1/+1 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>18/360</number>
+  </card>
+  <card>
+    <name>Flight</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+If U was spent to cast Flight, draw a card.
+Enchanted creature gets +1/+1 and has flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>19/360</number>
+  </card>
+  <card>
+    <name>Fortified Area</name>
+    <cost>3WW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, ward 2
+You have ward X, where X is the number of creatures you control with defender.
+4W, T: Search your library for a creature with defender, reveal it, put it onto the battlefield, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>20/360</number>
+  </card>
+  <card>
+    <name>Granite Gargoyle</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Gargoyle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+3: Granite Gargoyle gets +1/+1 until end of turn.
+If a nonelemental source would deal damage to Granite Gargoyle, prevent half that damage, rounded down.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>21/360</number>
+  </card>
+  <card>
+    <name>Guardian Angel</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Angel Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash
+Flying
+When Guardian Angel enters, exile another target creature then return it to the battlefield under its owner’s control.
+Evoke W</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>22/360</number>
+  </card>
+  <card>
+    <name>Healing Salve</name>
+    <cost>W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Gain 1 life.
+W, T, Sacrifice Healing Salve: Regenerate target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>23/360</number>
+  </card>
+  <card>
+    <name>Holy Armor</name>
+    <cost>2W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Holy Armor enters, you may attach it to a white creature you control.
+Equipped creature gets +2/+2 and has ward 2
+Equip—3W</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>24/360</number>
+  </card>
+  <card>
+    <name>Holy Strength</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>W: Holy Strength becomes an aura with enchant creature and gains: “Enchanted creature gets +1/+1”. Attach it to target creature you control.
+When Holy Strength is put into a graveyard from the battlefield, return it to your hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>25/360</number>
+  </card>
+  <card>
+    <name>Island Sanctuary</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Island Sanctuary enters, create a 1/1 white Pegasus creature token with flying.
+3W, T: Create a 1/1 white Pegasus creature token with flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>26/360</number>
+  </card>
+  <card>
+    <name>Ivory Cup</name>
+    <cost>2/WW</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever you cast a white spell or a plains enters under your control, gain 1 life.
+T: Add W.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>27/360</number>
+  </card>
+  <card>
+    <name>Ivory Gargoyle</name>
+    <cost>4W</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Gargoyle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, lifelink
+If a nonelemental source would deal damage to Ivory Gargoyle, prevent half that damage rounded down.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>28/360</number>
+  </card>
+  <card>
+    <name>Karma</name>
+    <cost>4WW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Vigilance
+When Karma enters, you may destroy target artifact or enchantment.
+Whenever you lose life, put that many +1/+1 counters on Karma.
+Evoke 1G/W</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>29/360</number>
+  </card>
+  <card>
+    <name>Keepers of the Faith</name>
+    <cost>4W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Cleric Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+When Keepers of the Faith enters, other creatures you control get +2/+2 until end of turn.
+Evoke 1WW </rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>30/360</number>
+  </card>
+  <card>
+    <name>Kjeldoran Outpost</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Snow Tribal Enchantment</supertype>
+      <subtype>Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add W.
+3WW, T: Create a 2/2 white Knight creature token.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>31/360</number>
+  </card>
+  <card>
+    <name>Kjeldoran Warrior</name>
+    <cost>2WW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Kjeldoran Warrior enters, you may search your library for a Knight card, reveal it, and put it into your hand. If you do, shuffle.
+Other Knight creatures you control get +1/+1.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>32/360</number>
+  </card>
+  <card>
+    <name>Lance</name>
+    <cost>2/W</cost>
+    <type>
+      <supertype>Tribal Artifact</supertype>
+      <subtype>Knight Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Equipped creature has first strike.
+As long as equipped creature is a knight, unicorn, or pegasus, it gets +1/+1.
+Equip 0</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>33/360</number>
+  </card>
+  <card>
+    <name>Lost Order of Jarkeld</name>
+    <cost>2WW</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Create two 2/2 white Knight creature tokens.
+Creatures you control gain haste until end of turn if R was spent to cast Lost Order of Jarkeld.
+Flashback 4WW</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>34/360</number>
+  </card>
+  <card>
+    <name>Mox Pearl</name>
+    <cost>H/W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/W can be paid with W or 2 life)
+Mox Pearl enters tapped.
+T: Add W.
+1, T: Add one mana of any color.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>35/360</number>
+  </card>
+  <card>
+    <name>Northern Paladin</name>
+    <cost>2/W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Cleric Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Multikicker 2/W (You may pay an additional 2/W any number of times as you cast this spell.)
+Lifelink
+Northern Paladin enters with a +1/+1 counter on it for each time it was kicked.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>36/360</number>
+  </card>
+  <card>
+    <name>Pearl Unicorn</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Unicorn </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2W (You may pay an additional 2W as you cast this spell.)
+Lifelink
+Pearl Unicorn enters with two +1/+1 counters if it was kicked.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>37/360</number>
+  </card>
+  <card>
+    <name>Purelace</name>
+    <cost>2/W2/W2/W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash, flying
+When Purelace enters, return target creature with mana value 2 or less from your graveyard to the battlefield.
+Evoke 1W (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>38/360</number>
+  </card>
+  <card>
+    <name>Reverse Damage</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Kicker 2/W
+If enchanted creature would deal damage, it deals that much damage to itself instead.
+Reverse Damage has flash if it was kicked.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>39/360</number>
+  </card>
+  <card>
+    <name>Righteousness</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose one:
+—Target blocking creature you control gains indestructible until end of turn.
+—Attacking creatures you control get +1+/1 until end of turn.
+Knightcycling 2 (2, Discard this card: Search your library for a Knight card, reveal it, and put it into your hand, then shuffle.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>40/360</number>
+  </card>
+  <card>
+    <name>Royal Assassin</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Assassin </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash, first strike
+When Royal Assassin enters, destroy target tapped creature.
+Evoke 1W/B (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>41/360</number>
+  </card>
+  <card>
+    <name>Samite Healer</name>
+    <cost>W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Cleric </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Prevent the next 1 damage that would be dealt to any target this turn.
+4W, T, Sacrifice Samite Healer: Return target creature card from your graveyard to the battlefield.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>42/360</number>
+  </card>
+  <card>
+    <name>Serra Angel</name>
+    <cost>4WW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Angel Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, vigilance
+When Serra Angel enters, you may exile target creature with power greater than or equal to Serra Angel’s power.
+Evoke 1W</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>43/360</number>
+  </card>
+  <card>
+    <name>Sword of Ages</name>
+    <cost>2W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Equipped creature gets +2/+0 and has: “2W, T, Sacrifice this creature: This creature deals damage equal to its power to target player.”
+Equip 1W</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>44/360</number>
+  </card>
+  <card>
+    <name>Swords to Plowshares</name>
+    <cost>2/WW</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Exile target creature. Its controller creates a 1/1 white Human creature token.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>45/360</number>
+  </card>
+  <card>
+    <name>Veteran Bodyguard</name>
+    <cost>2W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash
+When Veteran Bodyguard enters, redirect all damage from one source to Veteran Bodyguard.
+Evoke 1W (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>46/360</number>
+  </card>
+  <card>
+    <name>Wall of Stone</name>
+    <cost>1WW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, ward 2
+Wall of Stone can block an additional creature each combat.
+R: Wall of Stone gets +1/+0 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>8</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>47/360</number>
+  </card>
+  <card>
+    <name>Wall of Swords</name>
+    <cost>3W</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, flying, first strike
+1W: Wall of Swords loses defender and gains vigilance until end of turn.
+When Wall of Swords dies you may exile it. If you do, put a +1/+1 counter on each creature you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>48/360</number>
+  </card>
+  <card>
+    <name>White Knight</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>First strike
+Other knight creatures you control get +0/+1</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>49/360</number>
+  </card>
+  <card>
+    <name>White Ward</name>
+    <cost>2WW</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+When enchanted land leaves play, return it tapped.
+Enchanted land is a 3/6 creature with defender and flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>(3</power>
+      <toughness>6)</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>50/360</number>
+  </card>
+  <card>
+    <name>Winter Sky</name>
+    <cost>1W</cost>
+    <type>
+      <supertype>Snow Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Winter Sky enters tapped.
+T: Add C.
+4S, T: Each player gains 1 life for each snow permanent they control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>51/360</number>
+  </card>
+  <card>
+    <name>Wrath of God</name>
+    <cost>3WW</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Destroy all creatures. They can’t be regenerated.
+Channel — 3W/B, Discard Wrath of God: Exile target creature.
+Flashback 5WWW</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>52/360</number>
+  </card>
+  <card>
+    <name>Air Elemental</name>
+    <cost>4U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, ward 1
+If a nonelemental source would deal damage to Air Elemental, prevent half that damage, rounded down.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>53/360</number>
+  </card>
+  <card>
+    <name>Ancestral Recall</name>
+    <cost>1UU</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose two:
+—Draw 2 cards.
+—Scry 2.
+—Put a card you own from outside the game into your hand.
+—Return target instant or sorcery from your graveyard to your hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>54/360</number>
+  </card>
+  <card>
+    <name>Animate Artifact</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2U
+Put three +1/+1 counters on target noncreature artifact. It becomes a 0/0 artifact creature. If Animate Artifact was kicked, put seven +1/+1 counters on that artifact instead.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>55/360</number>
+  </card>
+  <card>
+    <name>Azure Drake</name>
+    <cost>3U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Drake </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+2/R: Azure Drake gets +1/+0 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>56/360</number>
+  </card>
+  <card>
+    <name>Blue Elemental Blast</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2/R
+Return target permanent to its owners hand unless that player pays 1. If Blue Elemental Blast was kicked, instead, return target permanent to its owner’s hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>57/360</number>
+  </card>
+  <card>
+    <name>Blue Ward</name>
+    <cost>UU</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+When enchanted land leaves play, return it tapped.
+Enchanted land is a 2/2 creature with flying. It gets +1/+1 for each artifact you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>(2</power>
+      <toughness>2)</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>58/360</number>
+  </card>
+  <card>
+    <name>Braingeyser</name>
+    <cost>XUU</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Target player draws X+1 cards.
+Flashback X1UUU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>59/360</number>
+  </card>
+  <card>
+    <name>Circle of Protection: Blue</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Circle of Protection: Blue enters, scry 2.
+You have ward 1.
+T, Sacrifice Circle of Protection: Blue: Counter target noncreature spell unless its controller pays 2.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>60/360</number>
+  </card>
+  <card>
+    <name>Control Magic</name>
+    <cost>2UU</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature or enchantment
+You control enchanted permanent.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>61/360</number>
+  </card>
+  <card>
+    <name>Copy Artifact</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Create a token that’s a copy of target artifact.
+Flashback 4UU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>62/360</number>
+  </card>
+  <card>
+    <name>Counterspell</name>
+    <cost>UU</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Ouphe </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Counter target spell.
+Cycling 3
+When you cycle Counterspell, create a 0/1 blue Ouphe creature token.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>63/360</number>
+  </card>
+  <card>
+    <name>Crystal Rod</name>
+    <cost>2/UU</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever you cast a blue spell or an island enters under your control, gain 1 life.
+T: Add U.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>64/360</number>
+  </card>
+  <card>
+    <name>Drain Power</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Drain Power enters with a charge counter on it for each permanent with a mana ability target opponent controls.
+T, Remove a charge counter from Drain Power: Add C.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>65/360</number>
+  </card>
+  <card>
+    <name>Feldon's Cane</name>
+    <cost>4U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Feldon’s Cane enters or is put into your graveyard from the battlefield, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If you do, exile it.
+3U, T: Sacrifice Feldon’s Cane: Draw two cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>66/360</number>
+  </card>
+  <card>
+    <name>Frost Giant</name>
+    <cost>3U</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Giant Warrior </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Frost Giant can be assigned to block an additional creature each combat.
+Whenever Frost Giant deals combat damage to a creature you may pay S. If you do, put a stun counter on that creature.
+W: Frost Giant gains vigilance until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>67/360</number>
+  </card>
+  <card>
+    <name>Ghost Ship</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, ward 2
+As long as Ghost Ship is a creature it has: “2/B: Regenerate Ghost Ship.”
+Crew 2</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>68/360</number>
+  </card>
+  <card>
+    <name>Great Defender</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Merfolk Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+W: Great Defender deals 1 damage to target attacking creature.
+2U, T: Tap target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>69/360</number>
+  </card>
+  <card>
+    <name>Icy Manipulator</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Snow Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1, T: Tap target nonsnow permanent.
+T: Untap target snow permanent.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>70/360</number>
+  </card>
+  <card>
+    <name>Invisibility</name>
+    <cost>2/U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature has ward 2 and can’t be blocked except by creatures with defender.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>71/360</number>
+  </card>
+  <card>
+    <name>Jump</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Overload 3UU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Until end of turn, target creature you control gains flying and “whenever this creature deals combat damage to a player, draw a card”.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>72/360</number>
+  </card>
+  <card>
+    <name>Lifetap</name>
+    <cost>X1U</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker U
+Lifetap has flash if it was kicked.
+Tap up to X target creatures. 
+Untap up to X target lands.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>73/360</number>
+  </card>
+  <card>
+    <name>Lord of Atlantis</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Merfolk Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Merfolk permanents you control have ward 1.
+At the beginning of your end step you may pay 1U. If you do, create a 1/1 blue Merfolk Knight creature token with: “This creature can’t be blocked unless defending player pays 1.”</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>74/360</number>
+  </card>
+  <card>
+    <name>Magical Hack</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Artificer </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Magical Hack enters, you may search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+3U: Return Magical Hack to its owner’s hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>75/360</number>
+  </card>
+  <card>
+    <name>Mana Short</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Tap all permanents target player controls with mana abilities and that player loses all unspent mana.
+Flashback 3UU (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>76/360</number>
+  </card>
+  <card>
+    <name>Merchant Ship</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever Merchant Ship attacks or blocks, create a treasure token.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>77/360</number>
+  </card>
+  <card>
+    <name>Merfolk of the Pearl Trident</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Merfolk Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Merfolk of the Pearl Trident enters, create two 1/1 blue Merfolk Knight creature tokens with: With “This creature can’t be blocked unless defending player pays 1.”
+1U, T: Create a 1/1 blue Merfolk Knight creature token with: “This creature can’t be blocked unless defending player pays 1.”</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>78/360</number>
+  </card>
+  <card>
+    <name>Mox Sapphire</name>
+    <cost>H/U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/U can be paid with U or 2 life)
+Mox Sapphire enters tapped.
+T: Add U.
+1, T: Add one mana of any color.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>79/360</number>
+  </card>
+  <card>
+    <name>Phantasmal Terrain</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Phantasmal Terrain enters tapped.
+T: Add UU.
+Whenever one or more creatures deal combat damage to you, sacrifice Phantasmal Terrain unless you pay 3.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>80/360</number>
+  </card>
+  <card>
+    <name>Pirate Ship</name>
+    <cost>3U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever Pirate Ship deals combat damage to a player, draw a card and create a treasure token.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>81/360</number>
+  </card>
+  <card>
+    <name>Power Leak</name>
+    <cost>2/U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+At the beginning of enchanted player’s upkeep, that player taps an untapped permanent they control with a mana ability.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>82/360</number>
+  </card>
+  <card>
+    <name>Power Sink</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Counter target activated or triggered ability (mana abilities can’t be targeted).
+Cycling 2/U (2/U, Discard this card: Draw a card.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>83/360</number>
+  </card>
+  <card>
+    <name>Power Surge</name>
+    <cost>3U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Exile target spell or permanent and put three time counters on it. It gains suspend. (At the beginning of its owner’s upkeep, they remove a time counter. When the last is removed, they may play it without paying its mana cost. If it’s a creature, it has haste.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>84/360</number>
+  </card>
+  <card>
+    <name>Psionic Blast</name>
+    <cost>4H/U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/U can be paid with U or 2 life.)
+Put target creature on top of its owner’s library, then fateseal 1, then that player mills 2. (To fateseal 1, look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>85/360</number>
+  </card>
+  <card>
+    <name>Psychic Venom</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+The first time enchanted player taps a land for mana each turn, they gain a poison counter. (A player who has 10 or more poison counters loses the game.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>86/360</number>
+  </card>
+  <card>
+    <name>Sea Serpent</name>
+    <cost>5U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Serpent </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Sea Serpent has trample and ward 3 as long as you control four or more islands.
+When Sea Serpent enters, you may exile target vehicle.
+Evoke 1G/U</rules>
+    <flavor></flavor>
+    <stats>
+      <power>6</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>87/360</number>
+  </card>
+  <card>
+    <name>Siren's Call</name>
+    <cost>1UU</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Creatures you don’t control get -2/-0 until the beginning of their controller’s next end step.
+Channel — 3W/U, Discard Siren’s Call: Create two 1/1 blue Merfolk Knight creature tokens with: “This creature can’t be blocked unless defending player pays 1.”</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>88/360</number>
+  </card>
+  <card>
+    <name>Skeleton Ship</name>
+    <cost>3U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Wither (This deals damage to creatures in the form of -1/-1 counters.)
+As long as Skeleton Ship is a creature it has: “1B: Skeleton Ship deals 1 damage to target creature.”
+Crew 2</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>89/360</number>
+  </card>
+  <card>
+    <name>Sleight of Mind</name>
+    <cost>2/U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose one:
+—Target player draws a card.
+—Target player mills 3.
+—Target creature gets -3/-0 until end of turn.
+Flashback 1U</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>90/360</number>
+  </card>
+  <card>
+    <name>Stasis</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant permanent
+When Stasis enters, tap enchanted permanent.
+Enchanted permanent doesn’t untap during its controller’s untap step.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>91/360</number>
+  </card>
+  <card>
+    <name>Steal Artifact</name>
+    <cost>2UU</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Gain control of target artifact
+Steal Artifact costs 2 less to cast if it targets an artifact controlled by a player you dealt combat damage to this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>92/360</number>
+  </card>
+  <card>
+    <name>Storm Crow</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Bird </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+Whenever Storm Crow attacks, you may pay R. If you do, it deals 2 damage to the defending player.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>93/360</number>
+  </card>
+  <card>
+    <name>Thoughtlace</name>
+    <cost>2/U2/U2/U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash, ward 2
+When Thoughtlace enters, return target instant or sorcery from your graveyard to your hand.
+Evoke 1U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>94/360</number>
+  </card>
+  <card>
+    <name>Time Vault</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1U, T, Sacrifice Time Vault: Return target creature to its owner’s hand.
+2U, T, Sacrifice Time Vault: Untap each permanent you control.
+4U, T, Sacrifice Time Vault: The owner of target spell shuffles it into their library.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>95/360</number>
+  </card>
+  <card>
+    <name>Time Walk</name>
+    <cost>3UU</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Return target instant or sorcery card from your graveyard to your hand.
+After this phase, there is an additional untap step, followed by an additional upkeep step, an additional draw step, and an additional main phase.
+Exile Time Walk.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>96/360</number>
+  </card>
+  <card>
+    <name>Timetwister</name>
+    <cost>3UUU</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose one:
+—End the turn.
+—Return each creature you don’t control to its owner’s hand.
+—Each player shuffles their hand and graveyard into their library, then draws seven cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>97/360</number>
+  </card>
+  <card>
+    <name>Twiddle</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Tap or untap target permanent.
+Flashback 2U</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>98/360</number>
+  </card>
+  <card>
+    <name>Unsummon</name>
+    <cost>1U</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose one:
+—Return target creature to its owner’s hand.
+—Counter target creature spell.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>99/360</number>
+  </card>
+  <card>
+    <name>Vesuvan Doppelganger</name>
+    <cost>1UU</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Shapeshifter </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Changeling (This card is every creature type.)
+Create a token that’s a copy of target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>100/360</number>
+  </card>
+  <card>
+    <name>Wall of Air</name>
+    <cost>1UU</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, flying, ward 1
+If a nonelemental source would deal damage to Wall of Air, prevent half that damage, rounded down.
+1U: Wall of Air loses defender until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>101/360</number>
+  </card>
+  <card>
+    <name>Wall of Water</name>
+    <cost>2U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+When Wall of Water enters, return target creature to its owner’s hand.
+Evoke R (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>102/360</number>
+  </card>
+  <card>
+    <name>Water Elemental</name>
+    <cost>U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+T: Tap target attacking creature. If it’s a vehicle, destroy it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>103/360</number>
+  </card>
+  <card>
+    <name>Animate Dead</name>
+    <cost>2BBB</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Exile each creature card from each graveyard, then create a 2/2 black Skeleton creature token for each creature exiled this way.
+Flashback 4BBBB</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>104/360</number>
+  </card>
+  <card>
+    <name>Bad Moon</name>
+    <cost>2BB</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Destroy all creatures. For each creature destroyed this way, its controller creates a 3/3 black Werewolf creature token.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>105/360</number>
+  </card>
+  <card>
+    <name>Black Ward</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+When enchanted land leaves play, return it tapped.
+Enchanted land is a 1/3 creature with skulk
+Whenever enchanted land deals damage to a player, that player mills 3.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>(1</power>
+      <toughness>3)</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>106/360</number>
+  </card>
+  <card>
+    <name>Circle of Protection: Black</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Circle of Protection: Black enters, scry 2.
+You have ward 1.
+T, Sacrifice Circle of Protection: Black: Target player mills 4. You gain 1 life for each land card milled this way.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>107/360</number>
+  </card>
+  <card>
+    <name>Contract from Below</name>
+    <cost>B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+When Contract from Below enters, put 3 ink counters on it and enchanted player loses 3 life.
+At the beginning of enchanted player’s upkeep, they remove an ink counter and draw a card.
+When there are no more ink counters on it, sacrifice Contract from Below and enchanted player discards their hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>108/360</number>
+  </card>
+  <card>
+    <name>Creature Bond</name>
+    <cost>B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+Whenever a creature enchanted player controls dies you may sacrifice Creature Bond. If you do, it deals damage to that player equal to the creature’s mana value.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>109/360</number>
+  </card>
+  <card>
+    <name>Cursed Land</name>
+    <cost>2BB</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+At the beginning of enchanted player’s upkeep, they exile 3 cards from their graveyard. For each card they were unable to exile this way, they lose 1 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>110/360</number>
+  </card>
+  <card>
+    <name>Cyclopean Tomb</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Artifact</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1, T, Discard a card: Draw a card.
+1B: Until end of turn, Cyclopean Tomb becomes an artifact creature with power and toughness equal to the number of creature cards in your graveyard.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>111/360</number>
+  </card>
+  <card>
+    <name>Dark Ritual</name>
+    <cost>B</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Add BBB.
+Whenever you cast a demon spell you may pay 2 life. If you do, return Dark Ritual from your graveyard to your hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>112/360</number>
+  </card>
+  <card>
+    <name>Darkpact</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As an additional cost to cast Darkpact, reveal a demon card from your hand or pay 4 life.
+Search your library for a black sorcery or enchantment and cast it without paying its mana cost, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>113/360</number>
+  </card>
+  <card>
+    <name>Deathgrip</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+At the beginning of enchanted player’s upkeep, they mill 2.
+Whenever a nonland card is put into enchanted player’s graveyard from anywhere, Deathgrip deals 1 damage to them.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>114/360</number>
+  </card>
+  <card>
+    <name>Deathlace</name>
+    <cost>2/B2/B2/B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash, poisonous 3 (Whenever this creature deals combat damage to a player, that player gets three poison counters. A player with ten or more poison counters loses the game.)
+When Deathlace enters, target player gets 3 poison counters.
+Evoke 1B</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>115/360</number>
+  </card>
+  <card>
+    <name>Demonic Attorney</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Demon Advisor </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>At the beginning of your upkeep, draw a card and gain a poison counter. (A player who has 10 or more poison counters loses the game.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>116/360</number>
+  </card>
+  <card>
+    <name>Demonic Hordes</name>
+    <cost>12/BBB</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose two:
+—Destroy target land.
+—Destroy target creature.
+—Target player loses 4 life.
+—Create a 4/4 black Demon creature token.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>117/360</number>
+  </card>
+  <card>
+    <name>Demonic Tutor</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Search your library for a card, put it into your hand, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>118/360</number>
+  </card>
+  <card>
+    <name>Disrupting Scepter</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Disrupting Scepter enters, target player discards 2 cards.
+2B, T: Target player mills 3.
+6BB, T: Target player mills 5.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>119/360</number>
+  </card>
+  <card>
+    <name>Drain Life</name>
+    <cost>X1B</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Drain Life deals X damage to any target. You gain life equal to the amount of black mana spent to cast this spell.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>120/360</number>
+  </card>
+  <card>
+    <name>Evil Presence</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Evil Presence enters, target player discards a card.
+1B, T: Target creature gains menace until end of turn.
+2BB, T, Sacrifice Evil Presence: Destroy target land or target nonblack creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>121/360</number>
+  </card>
+  <card>
+    <name>Fear</name>
+    <cost>1BB</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Creatures you don’t control get -2/-2 until end of turn</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>122/360</number>
+  </card>
+  <card>
+    <name>Frozen Shade</name>
+    <cost>B</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Shade </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+B: Frozen Shade gets +1/+1 until end of turn.
+1S: Frozen Shade gains lifelink until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>123/360</number>
+  </card>
+  <card>
+    <name>Gloom</name>
+    <cost>B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+Spells and abilities you control that target enchanted player cost 1 less to cast or activate.
+3B, T: Gloom deals 2 damage to enchanted player.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>124/360</number>
+  </card>
+  <card>
+    <name>Horror of Horrors</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Artifact</supertype>
+      <subtype>Demon Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Horror of Horrors enters, search your library for a curse card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1 for each curse you control and has menace.
+Equip 1B</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>125/360</number>
+  </card>
+  <card>
+    <name>Hypnotic Specter</name>
+    <cost>1BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Specter </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+When Hypnotic Specter enters, each player discards a card. Gain 1 life for each card discarded this way.
+Evoke B (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>126/360</number>
+  </card>
+  <card>
+    <name>Ironclaw Orcs</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Orc Rogue </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>B: Ironclaw Orcs gains deathtouch until end or turn.
+U: Ironclaw Orcs can’t be blocked this turn
+R: Ironclaw Orcs gains first strike until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>127/360</number>
+  </card>
+  <card>
+    <name>Living Wall</name>
+    <cost>3B</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Demon Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, deathtouch
+When Living Wall enters, it loses deathtouch and gains infect until end of turn then it deals damage equal to its power to any target.
+Evoke 1B</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>128/360</number>
+  </card>
+  <card>
+    <name>Lord of the Pit</name>
+    <cost>3BBB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, trample, ward 4
+At the beginning of your upkeep, sacrifice another creature. If you can’t, Lord of the Pit deals 7 damage to you.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>7</power>
+      <toughness>7</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>129/360</number>
+  </card>
+  <card>
+    <name>Marsh Viper</name>
+    <cost>3B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Snake </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Deathtouch, poisonous 2 (Whenever this creature deals combat damage to a player, that player gets two poison counters. A player with ten or more poison counters loses the game.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>130/360</number>
+  </card>
+  <card>
+    <name>Mind Twist</name>
+    <cost>XH/BH/B</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/B can be paid with B or 2 life)
+Mind Twist deals X+1 damage to target creature. When that creature dies this turn, its controller mills X+2 cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>131/360</number>
+  </card>
+  <card>
+    <name>Mox Jet</name>
+    <cost>H/B</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/B can be paid with B or 2 life)
+Mox Jet enters tapped.
+T: Add B.
+1, T: Add one mana of any color.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>132/360</number>
+  </card>
+  <card>
+    <name>Nether Shadow</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Demon Spirit </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Haste
+Nether Shadow enters with two +1/+1 counters on it if you didn’t cast it from your hand.
+BB: Return Nether Shadow from your graveyard to the battlefield.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>133/360</number>
+  </card>
+  <card>
+    <name>Nettling Imp</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Imp </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+Nettling Imp gets +1/+1 for each curse you control.
+When Nettling Imp enters, you may search your library for a curse card and cast it without paying its mana cost, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>134/360</number>
+  </card>
+  <card>
+    <name>Nevinyrral's Disk</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Artifact</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Nevinyrral’s Disk enters tapped.
+1B, T, Exile Nevinyrral’s Disk: Destroy all nonland permanents that aren’t demons or curses.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>135/360</number>
+  </card>
+  <card>
+    <name>Nightmare</name>
+    <cost>2BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, hexproof from red and white.
+R: Nightmare gets +1/+0 until end of turn.
+When Nightmare enters, you may search your library for a curse card, reveal it, put it into your hand, then shuffle.
+Evoke 1B</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>136/360</number>
+  </card>
+  <card>
+    <name>Pestilence</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+At the beginning of enchanted player’s upkeep, Pestilence deals 1 damage to that player and each creature that player controls.
+2B, T, Sacrifice Pestilence: Destroy target creature that was dealt damage this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>137/360</number>
+  </card>
+  <card>
+    <name>Pit Scorpion</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Scorpion </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Deathtouch, poisonous 2 (Whenever this creature deals combat damage to a player, that player gets two poison counters. A player with ten or more poison counters loses the game.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>138/360</number>
+  </card>
+  <card>
+    <name>Plague Rats</name>
+    <cost>BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Rat </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Rats you control have poisonous 1.
+Plague Rats gets +1/+1 for each other rat you control.
+When Plague Rats enters and at the beginning of your upkeep, create a 1/1 black Rat creature token.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>139/360</number>
+  </card>
+  <card>
+    <name>Raise Dead</name>
+    <cost>B</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As an additional cost to cast Raise Dead, exile a creature card from a graveyard.
+Create a 2/2 Black skeleton creature token.
+Flashback B</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>140/360</number>
+  </card>
+  <card>
+    <name>Scathe Zombies</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Zombie </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Scathe Zombies enters, each player discards a card.
+1B, T, Exile a creature card from a graveyard: Create a 2/2 black zombie creature token. Activate this ability only when you could cast a sorcery.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>141/360</number>
+  </card>
+  <card>
+    <name>Scavenger Ghoul</name>
+    <cost>2B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Zombie </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T, Exile a creature card from a graveyard: Choose one:
+—Put a +1/+1 counter on Scavenger Ghoul.
+—Put a -1/-1 counter on target creature.
+—Target player gains a poison counter.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>142/360</number>
+  </card>
+  <card>
+    <name>Sengir Vampire</name>
+    <cost>3BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Vampire Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, provoke
+1: Sengir Vampire loses flying and gains first strike until end of turn.
+Whenever a creature dealt damage by Sengir Vampire this turn dies, target player loses 3 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>143/360</number>
+  </card>
+  <card>
+    <name>Serpent Generator</name>
+    <cost>2BB</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>2B, T: Create a 1/1 black artifact Snake creature token with Poisonous 1. (Whenever that creature deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)
+2BB: Proliferate.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>144/360</number>
+  </card>
+  <card>
+    <name>Sinkhole</name>
+    <cost>2/B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant swamp 
+When Sinkhole enters, each player mills 2.
+Whenever enchanted swamp is tapped for mana, you may pay 1 life. If you do, add B.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>145/360</number>
+  </card>
+  <card>
+    <name>Terror</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker B
+Replicate 1B (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Destroy target nonblack creature. It can’t be regenerated. If Terror was kicked, instead destroy target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>146/360</number>
+  </card>
+  <card>
+    <name>Throne of Bone</name>
+    <cost>2/BB</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever you cast a black spell or a swamp enters under your control, you gain 1 life.
+T: Add B.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>147/360</number>
+  </card>
+  <card>
+    <name>Unholy Strength</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Demon Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature gets +3/+3 and has menace.
+When Unholy Strength is put into a graveyard from the battlefield, it deals 3 damage to you.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>148/360</number>
+  </card>
+  <card>
+    <name>Wall of Bone</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Skeleton Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+Nonblack creatures blocking or blocked by Wall of Bone get -2/-0 until end of turn.
+3B, T, Sacrifice Wall of Bone: Destroy target nonblack creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>149/360</number>
+  </card>
+  <card>
+    <name>Warp Artifact</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant artifact
+Enchanted artifact loses all abilities and has: “At the beginning of your upkeep, this artifact deals 2 damage to you.”</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>150/360</number>
+  </card>
+  <card>
+    <name>Weakness</name>
+    <cost>1B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Kicker—H/B (H/B can be paid with B or 2 life.)
+Enchanted creature gets -3/-3.
+Weakness has flash if it was kicked.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>151/360</number>
+  </card>
+  <card>
+    <name>Will-o'-the-Wisp</name>
+    <cost></cost>
+    <type>
+      <supertype>Land Creature</supertype>
+      <subtype>Swamp Spirit </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(This land isn’t a spell, it’s affected by summoning sickness, and it has “T: Add B.”)
+Flying
+1B: Regenerate Will-o’-the-Wisp.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>152/360</number>
+  </card>
+  <card>
+    <name>Word of Command</name>
+    <cost>2BBB</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>You control target player during that player’s next turn.
+Exile Word of Command.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>153/360</number>
+  </card>
+  <card>
+    <name>Zombie Master</name>
+    <cost>1BB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Zombie Wizard </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Each creature card in your graveyard has dredge 2.
+Whenever a creature card is removed from your graveyard, you may pay 3B. If you do, put that card onto the battlefield. It becomes a black zombie in addition to its other colors and types.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>154/360</number>
+  </card>
+  <card>
+    <name>Berserk</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2/G
+Target creature you control gets +X/+0 until end of turn, where X is equal to its power.
+If Berserk was kicked, that creature gains trample until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>155/360</number>
+  </card>
+  <card>
+    <name>Burrowing</name>
+    <cost>XR</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Target player mills X+2. Then, Burrowing deals 1 damage to them for each land card in their graveyard.
+Flashback X3RR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>156/360</number>
+  </card>
+  <card>
+    <name>Chaos Orb</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1, T, Sacrifice Chaos Orb: Destroy a nonland permanent chosen at random. That permanent’s controller discards a card then draws a card.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>157/360</number>
+  </card>
+  <card>
+    <name>Chaoslace</name>
+    <cost>2/R2/R2/R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash, haste
+When Chaoslace enters, it deals 3 damage to any target.
+Evoke 1R (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>158/360</number>
+  </card>
+  <card>
+    <name>Circle of Protection: Red</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Circle of Protection: Red enters, scry 2.
+You have ward 1.
+T, Sacrifice Circle of Protection: Red: It deals 3 damage to target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>159/360</number>
+  </card>
+  <card>
+    <name>Disintegrate</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2/B (You may pay an additional 2/B as you cast this spell.)
+Disintegrate deals 4 damage to target creature, it can’t be regenerated. If this spell was kicked, instead exile that creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>160/360</number>
+  </card>
+  <card>
+    <name>Dragon Whelp</name>
+    <cost>2RR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Dragon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+When Dragon Whelp enters, create a treasure token.
+Whenever Dragon Whelp attacks, you may pay RR. If you do, it deals 2 damage to any target.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>161/360</number>
+  </card>
+  <card>
+    <name>Dwarven Demolition Team</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Dwarf </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Dwarven Demolition Team enters, put a fuse counter on up to one target artifact and up to one target wall.
+T, Sacrifice Dwarven Demolition Team: Destroy each permanent with a fuse counter on it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>162/360</number>
+  </card>
+  <card>
+    <name>Dwarven Warriors</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Dwarf Warrior </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever Dwarven Warriors deals combat damage to a player, create a treasure token.
+At the beginning of combat on your turn, you may pay 1R. If you do, Dwarven Warriors gets +1/+0 and can’t be blocked this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>163/360</number>
+  </card>
+  <card>
+    <name>Earthbind</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+Creatures enchanted player controls lose flying.
+Sacrifice Earthbind: It deals 3 damage to target creature enchanted player controls.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>164/360</number>
+  </card>
+  <card>
+    <name>Earthquake</name>
+    <cost>3R</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Replicate 1R (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Tap target land and put two stun counters on it. Earthquake deals 3 damage to that land’s controller and up to one target creature they control without flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>165/360</number>
+  </card>
+  <card>
+    <name>Fire Elemental</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>R: Fire Elemental gets +1/+0 until end of turn.
+2, T: Fire Elemental deals damage equal to its power to target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>166/360</number>
+  </card>
+  <card>
+    <name>Fireball</name>
+    <cost>X1R</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Multikicker R (You may pay an additional R any number of times as you cast this spell.)
+Choose any target, then choose another target for each time Fireball was kicked. Fireball deals X damage to each of them.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>167/360</number>
+  </card>
+  <card>
+    <name>Firebreathing</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Elemental Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature gets +2/+2 and is a dragon in addition to its other types.
+XR, Exile Firebreathing from your graveyard: Firebreathing deals X damage to target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>168/360</number>
+  </card>
+  <card>
+    <name>Flashfires</name>
+    <cost>3R</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose two:
+—Destroy target land. 
+—Flashfires deals 4 damage to target creature.
+—Flashfires deals 1 damage to target player for each land they control.
+—Draw 2 cards then discard 2.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>169/360</number>
+  </card>
+  <card>
+    <name>Gauntlet of Might</name>
+    <cost>2/RRR</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Red creatures you control get +1/+1.
+Whenever you tap a permanent for R, it produces an additional R.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>170/360</number>
+  </card>
+  <card>
+    <name>Goblin Balloon Brigade</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+Goblin Balloon Brigade can’t block creatures with flying.
+When Goblin Balloon Brigade dies, create a 1/1 red Goblin creature token with haste.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>171/360</number>
+  </card>
+  <card>
+    <name>Goblin King</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Goblin Noble </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever a goblin you control deals combat damage to a player, you may create a treasure token.
+3R, T: Create two 1/1 red Goblin creature tokens with haste. Activate this ability only during your turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>172/360</number>
+  </card>
+  <card>
+    <name>Goblin Shrine</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add R.
+1R, T: Create a 1/1 red Goblin creature token with haste. Activate this ability only during your turn.
+T: Goblin creatures you control get +1/+1 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>173/360</number>
+  </card>
+  <card>
+    <name>Gray Ogre</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Ogre Barbarian </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Morbid—Gray Ogre enters with two +1/+1 counters if a creature died this turn.
+Gray Ogre has menace as long as it has a +1/+1 counter on it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>174/360</number>
+  </card>
+  <card>
+    <name>Howl From Beyond</name>
+    <cost>XH/R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/R can be paid for with R or 2 life.)
+Target creature gets +X/+0 until end of turn.
+Flashback XH/R</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>175/360</number>
+  </card>
+  <card>
+    <name>Hurloon Minotaur</name>
+    <cost>1RR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Minotaur Shaman </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1B: Hurloon Minotaur gets +1/+1 until end of turn for each player with at least one creature card in their graveyard. Activate this ability only once each turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>176/360</number>
+  </card>
+  <card>
+    <name>Inferno</name>
+    <cost>4RR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever Inferno attacks, it deals 2 damage to the defending player and each creature they control.
+4RR, Exile Inferno from your graveyard: It deals 6 damage to each creature and each player.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>6</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>177/360</number>
+  </card>
+  <card>
+    <name>Iron Star</name>
+    <cost>2/RR</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever you cast a red spell or a mountain enters under your control, gain 1 life.
+T: Add R.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>178/360</number>
+  </card>
+  <card>
+    <name>Keldon Warlord</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Barbarian </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Haste
+Whenever Keldon Warlord attacks, other attacking creatures you control get +1/+0 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>179/360</number>
+  </card>
+  <card>
+    <name>Lightning Bolt</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Split second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)
+Lightning Bolt deals 3 damage to any target.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>180/360</number>
+  </card>
+  <card>
+    <name>Magnetic Mountain</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add R.
+3R, T: Search your library for an artifact card, reveal it, put it onto the battlefield, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>181/360</number>
+  </card>
+  <card>
+    <name>Mana Flare</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever a player taps a land for mana, that player adds one mana of any type that land produced, and Mana Flare deals 1 damage to them.
+T: Add 1R.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>182/360</number>
+  </card>
+  <card>
+    <name>Manabarbs</name>
+    <cost>2H/RH/R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/R can be paid with R or 2 life)
+Manabarbs deals X damage to target player, where X is equal to the number of permanents they control with a mana ability.
+Flashback 5H/RH/R</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>183/360</number>
+  </card>
+  <card>
+    <name>Mons Goblin Raiders</name>
+    <cost>1RR</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Goblin </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Mons Goblin Raiders enters, create three 1/1 red goblin creature tokens with haste.
+1R, T: Create a 1/1 red goblin creature token with haste. Activate this ability only during your turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>184/360</number>
+  </card>
+  <card>
+    <name>Mox Ruby</name>
+    <cost>H/R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/R can be paid with R or 2 life)
+Mox Ruby enters tapped.
+T: Add R.
+1, T: Add one mana of any color.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>185/360</number>
+  </card>
+  <card>
+    <name>Orcish Artillery</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As long as Orcish Artillery is a creature it has: “T: Orcish Artillery deals 2 damage to any target.”
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>186/360</number>
+  </card>
+  <card>
+    <name>Orcish Oriflamme</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Attacking creatures you control get +1/+0.
+R, T: Target creature gains haste until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>187/360</number>
+  </card>
+  <card>
+    <name>Pyrotechnics</name>
+    <cost>3R</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Pyrotechnics deals 4 damage divided as you choose among any number of targets.
+Flashback 6R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>188/360</number>
+  </card>
+  <card>
+    <name>Red Elemental Blast</name>
+    <cost>R</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2/U
+Red Elemental Blast deals 2 damage to any target. If it was kicked, it deals 4 damage instead.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>189/360</number>
+  </card>
+  <card>
+    <name>Red Ward</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+When enchanted land leaves play, return it tapped.
+Enchanted land is a 2/2 creature with double strike and haste.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>(2</power>
+      <toughness>2)</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>190/360</number>
+  </card>
+  <card>
+    <name>Rock Hydra</name>
+    <cost>XRR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Hydra </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Rock Hydra enters with X +1/+1 counters on it.
+As long as Rock Hydra’s power is 5 or greater, it has double strike and trample.
+RR: Put a +1/+1 counter on Rock Hydra. </rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>0</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>191/360</number>
+  </card>
+  <card>
+    <name>Rod of Ruin</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Rod of Ruin enters, it deals 3 damage to any target.
+6RRR, T: Rod of Ruin deals 7 damage to any target.
+Evoke R (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>192/360</number>
+  </card>
+  <card>
+    <name>Sedge Troll</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Troll </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>2/B: Regenerate Sedge Troll.
+Channel — 3B, Discard Sedge Troll: Destroy target nonblack creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>193/360</number>
+  </card>
+  <card>
+    <name>Shatter</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Overload 2RR (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Destroy target artifact you don’t control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>194/360</number>
+  </card>
+  <card>
+    <name>Shivan Dragon</name>
+    <cost>3RRR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Dragon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, menace, ward 2.
+When Shivan Dragon enters, create 3 treasure tokens.
+Shivan Dragon gets +1/+0 for each artifact you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>195/360</number>
+  </card>
+  <card>
+    <name>Sol Ring</name>
+    <cost>2/R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add RR. Use this mana only to cat noncreature spells or activate abilities of noncreature permanents.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>196/360</number>
+  </card>
+  <card>
+    <name>Spellblast</name>
+    <cost>XR</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Spellblast deals X damage to target creature.
+Splice onto instant or sorcery XU/RU/R (As you cast an instant or sorcery spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>197/360</number>
+  </card>
+  <card>
+    <name>Stone Giant</name>
+    <cost>2RR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Giant Warrior </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever Stone Giant attacks, create a 4/1 Boulder creature token with trample, tapped and attacking. Exile the token at the end of combat.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>198/360</number>
+  </card>
+  <card>
+    <name>Stone Rain</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker—sacrifice a mountain.
+Stone Rain deals 1 damage to each creature target player controls. If Stone Rain was kicked, it deals 3 damage instead.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>199/360</number>
+  </card>
+  <card>
+    <name>Tunnel</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>3: Target creature can’t be blocked this turn.
+1R, T, Sacrifice Tunnel: Destroy target creature with defender.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>200/360</number>
+  </card>
+  <card>
+    <name>Two-Headed Giant of Foriys</name>
+    <cost>3R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Giant Warrior </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample, can’t be blocked by creatures with defender.
+Two-Headed Giant of Foriys can block an additional creature each combat.
+W: Two-Headed Giant of Foriys gains vigilance until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>201/360</number>
+  </card>
+  <card>
+    <name>Uthden Troll</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Troll </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>2/B: Regenerate Uthden Troll.
+Channel — 3G, Discard Uthden Troll: Destroy target artifact or enchantment.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>202/360</number>
+  </card>
+  <card>
+    <name>Volcanic Eruption</name>
+    <cost>2RR</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Volcanic Eruption deals damage to any target equal to the total number of mountains you control plus the number of islands you control.
+Flashback 6UU</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>203/360</number>
+  </card>
+  <card>
+    <name>Wall of Fire</name>
+    <cost>2R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+When Wall of Fire enters, it deals damage equal to its power to target creature.
+Evoke 1U (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>204/360</number>
+  </card>
+  <card>
+    <name>Wheel of Fortune</name>
+    <cost>1R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Each player discards a card then draws a card.
+2RR, T, Exile Wheel of Fortune: Each player discards their hand then draws 7 cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>205/360</number>
+  </card>
+  <card>
+    <name>Aspect of Wolf</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature gets +1/+1 for each other creature you control.
+Enchanted creature has ward 2 as long as its green.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>206/360</number>
+  </card>
+  <card>
+    <name>Birds of Paradise</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+Enchanted land has hexproof and “T: Add one mana of any color.”.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>207/360</number>
+  </card>
+  <card>
+    <name>Camouflage</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Flash
+When Camouflage enters, draw a card.
+Enchanted creature has hexproof.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>208/360</number>
+  </card>
+  <card>
+    <name>Circle of Protection: Green</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Circle of Protection: Green enters, scry 2.
+You have ward 1.
+T, Sacrifice Circle of Protection: Green!: Target creature gains your choice of either deathtouch and reach, or vigilance and trample until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>209/360</number>
+  </card>
+  <card>
+    <name>Cockatrice</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Cockatrice </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 1B
+Deathtouch, flying
+When Cockatrice enters, if it was kicked, destroy target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>210/360</number>
+  </card>
+  <card>
+    <name>Conversion</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As an additional cost to cast Conversion, sacrifice a land.
+Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>211/360</number>
+  </card>
+  <card>
+    <name>Craw Giant</name>
+    <cost>5GGG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Giant </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker—Sacrifice an untapped forest.
+Trample, reach
+Craw Giant has haste if it was kicked.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>10</power>
+      <toughness>10</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>212/360</number>
+  </card>
+  <card>
+    <name>Craw Wurm</name>
+    <cost>4GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Wurm </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample
+Dredge 3 (If you would draw a card, you may mill three cards and return this card from your graveyard to your hand instead.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>6</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>213/360</number>
+  </card>
+  <card>
+    <name>Earth Elemental</name>
+    <cost>3GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Earth Elemental gets +1/+1 for each land you control.
+Earth Elemental has trample as long as you control a mountain.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>214/360</number>
+  </card>
+  <card>
+    <name>Elvish Archer</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elf Archer </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>First strike, reach
+Channel — 1R/G, Discard Elvish Archer: Destroy target creature with flying or menace.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>215/360</number>
+  </card>
+  <card>
+    <name>Fastbond</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Fastbond enters tapped.
+When you cast Fastbond, search your library for a land card, put it onto the battlefield tapped, then shuffle.
+T: Add G.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>216/360</number>
+  </card>
+  <card>
+    <name>Fog</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Overload GG (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Prevent all combat damage that would be dealt this turn by target creature you don’t control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>217/360</number>
+  </card>
+  <card>
+    <name>Fungusaur</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Fungus Dinosaur </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.
+When Fungusaur dies, create a 1/1 green Saproling creature token for each +1/+1 counter on it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>218/360</number>
+  </card>
+  <card>
+    <name>Gaea's Liege</name>
+    <cost>4GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Avatar </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Gaea’s Liege gets +1/+1 for each forest you control.
+G: Gaea’s Liege gains vigilance and haste until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>219/360</number>
+  </card>
+  <card>
+    <name>Giant Growth</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Multikicker G (You may pay an additional G any number of times as you cast this spell.)
+Target creature gets +3/+3 and gains trample until end of turn. Put a +1/+1 counter on that creature for each time Giant Growth was kicked.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>220/360</number>
+  </card>
+  <card>
+    <name>Giant Spider</name>
+    <cost>3G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Spider </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Reach, deathtouch, menace</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>221/360</number>
+  </card>
+  <card>
+    <name>Green Ward</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+When enchanted land leaves play, return it tapped.
+Enchanted land is a 6/6 creature with trample.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>(6</power>
+      <toughness>6)</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>222/360</number>
+  </card>
+  <card>
+    <name>Grizzly Bears</name>
+    <cost>GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Bear </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>2B: Return Grizzly Bears from your graveyard to the battlefield tapped. It becomes a black zombie in addition to its other colors and types.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>223/360</number>
+  </card>
+  <card>
+    <name>Hail Storm</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Snow Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Prevent all combat damage that would be dealt by nonsnow creatures this turn. 
+Hail Storm deals 1 damage to each nonsnow creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>224/360</number>
+  </card>
+  <card>
+    <name>Hurricane</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Overload 2UU (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)
+Tap target creature you don’t control and put a stun counter on it. If that creature has flying, Hurricane deals 2 damage to it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>225/360</number>
+  </card>
+  <card>
+    <name>Ichneumon Druid</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Druid </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Ichneumon Druid enters, destroy target artifact or enchantment. If you do, draw a card.
+4G, Exile Ichneumon Druid from your graveyard: Destroy target artifact or enchantment. If you do, draw a card.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>226/360</number>
+  </card>
+  <card>
+    <name>Instill Energy</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+When Instill Energy enters, put a +1/+1 counter on enchanted creature.
+Enchanted creature gets +1/+1 and has vigilance.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>227/360</number>
+  </card>
+  <card>
+    <name>Ironroot Treefolk</name>
+    <cost>3GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Treefolk </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+If a source would deal damage to Ironroot Treefolk, it deals that much damage minus 1 instead.
+2G: Ironroot Treefolk loses defender and gains menace until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>228/360</number>
+  </card>
+  <card>
+    <name>Kormus Bell</name>
+    <cost>4GG</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>3G, T: Put X +1/+1 counters on target land you control, where X is equal to the number of lands you control. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>229/360</number>
+  </card>
+  <card>
+    <name>Kudzu</name>
+    <cost>1GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Plant </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, deathtouch
+1GG, T, Sacrifice Kudzu: Destroy target noncreature permanent.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>230/360</number>
+  </card>
+  <card>
+    <name>Ley Druid</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Druid </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Untap target land.
+GG, T: Put three +1/+1 counters on target land you control. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>231/360</number>
+  </card>
+  <card>
+    <name>Lifeforce</name>
+    <cost>2/GG</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Lifeforce enters, scry 2.
+1G, T, Sacrifice Lifeforce: Reveal cards from the top of your library until you reveal a creature or enchantment card. Put that permanent onto the battlefield and the rest on the bottom in a random order.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>232/360</number>
+  </card>
+  <card>
+    <name>Lifelace</name>
+    <cost>2/G2/G2/G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flash, trample
+When Lifelace enters, put two +1/+1 counters on target land you control. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.
+Evoke 1G</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>233/360</number>
+  </card>
+  <card>
+    <name>Living Lands</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Put two +1/+1 counters on each land you control. They become 0/0 creatures with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.
+Flashback 3GGG</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>234/360</number>
+  </card>
+  <card>
+    <name>Llanowar Elves</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elf Druid </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Llanowar Elves enters, put two +1/+1 counters on target land you control. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>235/360</number>
+  </card>
+  <card>
+    <name>Meekstone</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>G, T: Put a +1/+1 counter on target land you control. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>236/360</number>
+  </card>
+  <card>
+    <name>Mox Emerald</name>
+    <cost>H/G</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H/G can be paid with G or 2 life)
+Mox Emerald enters tapped.
+T: Add G.
+1, T: Add one mana of any color.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>237/360</number>
+  </card>
+  <card>
+    <name>Natural Selection</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose creature, land, or enchantment.
+Look at the top 5 cards of your library. You may reveal any number of cards of the chosen type from among them and put them into your hand. Put the rest on the bottom in a random order.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>238/360</number>
+  </card>
+  <card>
+    <name>Pixie Queen</name>
+    <cost>3G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Faerie Noble </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, ward 2
+When Pixie Queen enters, create three 1/1 green Faerie creature tokens with flying.
+Tap an untapped faerie you control: Add G. Use this mana only to cast noncreature spells or activate abilities of noncreature permanents.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>239/360</number>
+  </card>
+  <card>
+    <name>Regeneration</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant creature
+Enchanted creature gets +1/+1.
+2/B: Regenerate enchanted creature.
+Cycling 2 (2, Discard this card: Draw a card.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>240/360</number>
+  </card>
+  <card>
+    <name>Scaled Wurm</name>
+    <cost>5G</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Wurm </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 1S (You may pay an additional 1S as you cast this spell.)
+Trample, hexproof from nonsnow
+When Scaled Wurm enters, if it was kicked, it deals damage equal to its power to any target.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>7</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>241/360</number>
+  </card>
+  <card>
+    <name>Shanodin Dryads</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Nymph Dryad </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Hexproof
+3G: Shanodin Dryads can’t be blocked this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>242/360</number>
+  </card>
+  <card>
+    <name>Thicket Basilisk</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Basilisk </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 1B
+Deathtouch
+When Thicket Basilisk enters, if it was kicked, destroy target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>243/360</number>
+  </card>
+  <card>
+    <name>Timber Wolves</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Create two 2/2 green Wolf creature tokens with first strike.
+Timber Wolves has flash if W was spent to cast it.
+Flashback 4GG</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>244/360</number>
+  </card>
+  <card>
+    <name>Tsunami</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose two:
+—Destroy target noncreature permanent.
+—Tsunami deals 1 damage to target player for each island and/or swamp they control.
+—Create two 2/2 green elemental creature tokens.
+—Counter target blue or black spell.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>245/360</number>
+  </card>
+  <card>
+    <name>Typhoon</name>
+    <cost>4G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>G: Typhoon gains trample until end of turn.
+U: Typhoon gains flying until end of turn.
+R: Typhoon gets +1/+0 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>246/360</number>
+  </card>
+  <card>
+    <name>Untamed Wilds</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Search your library for a Plains, Island, Forest, Mountain, or Swamp card. Put that card onto the battlefield, then shuffle.
+Flashback 4GG</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>247/360</number>
+  </card>
+  <card>
+    <name>Venom</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Equipped creature gets +1/+1 and has deathtouch.
+1W: Equipped creature gains first strike until end of turn.
+Equip 2</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>248/360</number>
+  </card>
+  <card>
+    <name>Wall of Brambles</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Plant Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, deathtouch
+2B: Return Wall of Brambles from your graveyard to the battlefield.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>249/360</number>
+  </card>
+  <card>
+    <name>Wall of Wood</name>
+    <cost>G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Treefolk Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender
+T: Add G
+Channel — 2G, Discard Wall of Wood: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>250/360</number>
+  </card>
+  <card>
+    <name>War Mammoth</name>
+    <cost>3G</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Elephant </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample
+War Mammoth gets +2/+2 as long as you control another snow permanent.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>251/360</number>
+  </card>
+  <card>
+    <name>Web</name>
+    <cost>2G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever a creature with flying attacks you, it loses flying until the end of combat.
+3G, T, Sacrifice Web: Destroy target creature with flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>252/360</number>
+  </card>
+  <card>
+    <name>Wild Growth</name>
+    <cost>3G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Put four +1/+1 counters on target land you control. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>253/360</number>
+  </card>
+  <card>
+    <name>Wooden Sphere</name>
+    <cost>2/GG</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever you cast a green spell or a forest enters under your control, you gain 1 life.
+T: Add G.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>254/360</number>
+  </card>
+  <card>
+    <name>Wooly Mammoths</name>
+    <cost>2GG</cost>
+    <type>
+      <supertype>Snow Tribal Enchantment</supertype>
+      <subtype>Elephant </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Wooly Mammoths enters, create a 3/3 green Elephant snow creature token with trample.
+5S, T: Create a 3/3 green Elephant snow creature token with trample.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>255/360</number>
+  </card>
+  <card>
+    <name>Wooly Spider</name>
+    <cost>1G</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Spider </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Reach
+Whenever Wooly Spider blocks or becomes blocked by a nonsnow creature, tap that creature and it doesn’t untap during its controller’s next untap step.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>256/360</number>
+  </card>
+  <card>
+    <name>Æther Storm</name>
+    <cost>2/W2/U2/B2/R2/G</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add WUBRG. Use this mana only to cast elemental spells or activate abilities of elemental permanents.
+At the beginning of your upkeep you may look at the top card of your library. If it is an elemental card, you may reveal it and put it into your hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>257/360</number>
+  </card>
+  <card>
+    <name>Force of Nature</name>
+    <cost>2/W2/U2/B2/R2/G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample, ward 2
+When Force of Nature enters, put two +1/+1 counters on each land you control. They become 0/0 creatures with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>8</power>
+      <toughness>8</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>258/360</number>
+  </card>
+  <card>
+    <name>Junún Efreet</name>
+    <cost>1BR</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Efreet Warlock </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Haste
+You may cast Junún Efreet from your graveyard as long as any player has no cards in their hand.
+Channel — 2B, Discard Junún Efreet: Each player discards three cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>259/360</number>
+  </card>
+  <card>
+    <name>Lhurgoyf</name>
+    <cost>1BG</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Lhurgoyf </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Lhurgoyf gets +1/+1 for each creature card in your graveyard.
+Dredge 3 (If you would draw a card, you may mill three cards and return this card from your graveyard to your hand instead.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>260/360</number>
+  </card>
+  <card>
+    <name>Lich</name>
+    <cost>3UB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Zombie Wizard </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Dredge 2
+When Lich enters, you lose 2 life, draw two cards, then put a card from your hand on top of your library.
+Evoke 2U/B</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>261/360</number>
+  </card>
+  <card>
+    <name>Mesa Pegasus</name>
+    <cost>1WU</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Pegasus </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, ward 2 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2.)
+Creatures you control with flying gets +1/+1.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>262/360</number>
+  </card>
+  <card>
+    <name>Mountain Yeti</name>
+    <cost>1RG</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Yeti </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>2S: Mountain Yeti can’t be blocked this turn.
+Channel — 1G, Discard Mountain Yeti: Search your library for a snow land, put it onto the battlefield tapped, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>263/360</number>
+  </card>
+  <card>
+    <name>Rime Dryad</name>
+    <cost>1GU</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Dryad Druid </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Rime Dryad enters, if S was spent to cast it, Choose one. Choose both if SS was spent:
+—Tap target creature and put a stun counter on it.
+—Put two +1/+1 counters on target permanent.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>264/360</number>
+  </card>
+  <card>
+    <name>Storm Seeker</name>
+    <cost>UR</cost>
+    <type>
+      <supertype>Tribal Artifact</supertype>
+      <subtype>Elemental Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1U/RU/R, T: Search your library for an elemental card, reveal it, put it into your hand, then shuffle.
+Equipped creature gets +1/+1 for each card in your hand.
+Equip 4. This ability costs 2 less to activate if it targets an elemental.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>265/360</number>
+  </card>
+  <card>
+    <name>Thunder Spirit</name>
+    <cost>1RW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Elemental Spirit </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, first strike, haste
+Channel — RW, Discard Thunder Spirit: It deals 3 damage to any target and you gain 3 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>266/360</number>
+  </card>
+  <card>
+    <name>Verduran Enchantress</name>
+    <cost>GW</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Druid </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Ward 2
+When Verduran Enchantress enters, you may search your library for an enchantment card, reveal it, put it into your hand, then shuffle.
+You may spend mana as though it were mana of any color to cast aura spells that target permanents you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>267/360</number>
+  </card>
+  <card>
+    <name>Witch Hunter</name>
+    <cost>4WB</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Spellshaper </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Hexproof from artifacts and enchantments
+1WB, T, Discard a card: Destroy target creature or enchantment.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>268/360</number>
+  </card>
+  <card>
+    <name>Black Vise</name>
+    <cost>1B/R</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>At the beginning of each opponent’s upkeep, Black Vise deals 1 damage to them.
+T: Target player mills 1.
+Channel — BB, Discard Black Vise: Target player discards two cards.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>269/360</number>
+  </card>
+  <card>
+    <name>Blaze of Glory</name>
+    <cost>1R/W</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker W
+Blaze of Glory of glory deals 5 damage to target attacking or blocking creature. If Blaze of Glory was kicked, exile that creature instead.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>270/360</number>
+  </card>
+  <card>
+    <name>Bog Wraith</name>
+    <cost>2B/GB/G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Wraith </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Menace
+Bog Wraith gets +1/+0 for each creature card in each graveyard.
+If a nonelemental source would deal damage to Bog Wraith, prevent half that damage, rounded down.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>271/360</number>
+  </card>
+  <card>
+    <name>Channel</name>
+    <cost>B/GB/G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>As an additional cost to cast Channel, pay X life.
+Add X.
+Channel—Pay 2 life, discard Channel: Add CC.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>272/360</number>
+  </card>
+  <card>
+    <name>Clone</name>
+    <cost>1G/U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Shapeshifter </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Changeling (This card is every creature type.)
+When you cast Clone choose a creature type. Clone enters with a +1/+1 counter on it for each creature of the chosen type on the battlefield.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>0</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>273/360</number>
+  </card>
+  <card>
+    <name>Consecrate Land</name>
+    <cost>1G/W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant land
+When Consecrate Land enters, put three +1/+1 counters on enchanted land. It becomes a 0/0 creature with haste and “When this permanent leaves the battlefield, return it tapped.” It’s still a land.
+Enchanted land is indestructible.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>274/360</number>
+  </card>
+  <card>
+    <name>Drudge Skeletons</name>
+    <cost>1W/B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Skeleton Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>2/B: Regenerate Drudge Skeletons.
+2/W: Drudge Skeletons gains first strike until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>275/360</number>
+  </card>
+  <card>
+    <name>False Orders</name>
+    <cost>R/W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When False Orders enters, draw a card.
+T, Sacrifice False Orders: Target creature you control gains provoke until end of turn. If that creature has flying, it loses flying until end of turn. (When this attacks, you may have target creature defending player controls untap and block it if able.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>276/360</number>
+  </card>
+  <card>
+    <name>Feedback</name>
+    <cost>2U/RU/R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+When Feedback enters, it deals 3 damage to target creature.
+At the beginning of enchanted player’s upkeep, Feedback deals 2 damage to them unless they pay 2.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>277/360</number>
+  </card>
+  <card>
+    <name>Forcefield</name>
+    <cost>1W/U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever a creature attacks you, it gets -1/-0 until end of turn.
+Sacrifice Forcefield: Return target creature to its owner’s hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>278/360</number>
+  </card>
+  <card>
+    <name>Fork</name>
+    <cost>U/RU/R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Cycling U/R (U/R, Discard this card: Draw a card.)
+Copy target instant or sorcery spell. You may choose new targets for the copy.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>279/360</number>
+  </card>
+  <card>
+    <name>Hill Giant</name>
+    <cost>2R/GR/G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Giant Warrior </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Reach
+When Hill Giant enters, choose one:
+—Destroy target creature with flying.
+—Destroy target artifact.
+—Create 2 food tokens.
+Evoke 1R/G</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>280/360</number>
+  </card>
+  <card>
+    <name>Ice Storm</name>
+    <cost>1R/G</cost>
+    <type>
+      <supertype>Snow Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+Whenever a nonsnow creature enters under enchanted player’s control, Ice Storm deals 1 damage to it unless that player pays S.
+2S, T: Ice Storm deals 2 damage to enchanted player.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>281/360</number>
+  </card>
+  <card>
+    <name>Jayemdae Tome</name>
+    <cost>2U/B</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>At the beginning of your upkeep, draw a card.
+At the beginning of your end step, discard a card. If you can’t, mill 1.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>282/360</number>
+  </card>
+  <card>
+    <name>Juzám Djinn</name>
+    <cost>2B/RB/R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Djinn </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample
+You can’t win the game and your opponents can’t lose the game.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>6</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>283/360</number>
+  </card>
+  <card>
+    <name>Karplusan Giant</name>
+    <cost>5R/GR/G</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Elemental Giant </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample, reach, hexproof from nonsnow
+When Karplusan Giant enters, tap each nonsnow land and put a stun counter on it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>7</power>
+      <toughness>7</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>284/360</number>
+  </card>
+  <card>
+    <name>Kjeldoran Frostbeast</name>
+    <cost>12/GG/UR/G</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Elemental Beast </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kjeldoran Frostbeast gets +1/+1 for each other snow permanent you control.
+SS, T: Kjeldoran Frostbeast deals damage equal to its power to target creature. </rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>285/360</number>
+  </card>
+  <card>
+    <name>Library of Leng</name>
+    <cost>2/UU/B</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>If an effect causes you to discard a card, you may instead mill 2.
+If you would draw a card while your library has no cards in it, you win the game instead.
+2, T: Draw a card then discard a card.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>286/360</number>
+  </card>
+  <card>
+    <name>Lure</name>
+    <cost>1R/G</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1, T: Target creature you control gains provoke until end of turn. If it has flying, it loses flying until end of turn. (When this attacks, you may have target creature defending player controls untap and block it if able.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>287/360</number>
+  </card>
+  <card>
+    <name>Mahamoti Djinn</name>
+    <cost>3U/RU/R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Djinn </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+Whenever Mahamoti Djinn attacks, flip a coin. If you win the flip, untap Mahamoti Djinn and after this phase there is an additional combat phase followed by an additional main phase. If you lose the flip, Mahamoti Djinn deals 5 damage to you.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>288/360</number>
+  </card>
+  <card>
+    <name>Mold Demon</name>
+    <cost>2B/GB/G</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Fungus Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Mold Demon enters, you may put a creature card from your hand onto the battlefield.
+Whenever Mold Demon deals combat damage to a player, you may return target creature card from your graveyard to your hand.
+Evoke 2GG</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>289/360</number>
+  </card>
+  <card>
+    <name>Paralyze</name>
+    <cost>2U/B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+At the beginning of enchanted player’s upkeep, tap each creature they control unless they pay 1 life per creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>290/360</number>
+  </card>
+  <card>
+    <name>Personal Incarnation</name>
+    <cost>32/WW/BR/W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Avatar Incarnation </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Lifelink, haste
+When Personal Incarnation dies, lose half your life, rounded down.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>6</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>291/360</number>
+  </card>
+  <card>
+    <name>Petra Sphinx</name>
+    <cost>2W/UW/U</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Sphinx </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+T: Scry 1, then reveal the top card of your library. If it shares a color with Petra Sphinx put it into your hand.
+1S: Untap Petra Sphinx.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>292/360</number>
+  </card>
+  <card>
+    <name>Phantasmal Forces</name>
+    <cost>2W/UW/U</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Illusion Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, first strike
+When Phantasmal Forces becomes the target of a spell or ability, sacrifice it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>293/360</number>
+  </card>
+  <card>
+    <name>Phantom Monster</name>
+    <cost>2U/BU/B</cost>
+    <type>
+      <supertype>Tribal Sorcery</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Creatures you control and gain menace, become Demons in addition to their other types until end of turn, and gain: “This creature Can’t be blocked by players who are enchanted.”
+Channel — 1B, Discard Phantom Monster: Search your library for a curse card, reveal it, put it into your hand, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>294/360</number>
+  </card>
+  <card>
+    <name>Polar Kraken</name>
+    <cost>8G/UG/UG/UG/U</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Kraken </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample, ward—sacrifice a land.
+Polar Kraken costs 1 less to cast for each snow permanent you control.
+Cycling 1G/U</rules>
+    <flavor></flavor>
+    <stats>
+      <power>11</power>
+      <toughness>11</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>295/360</number>
+  </card>
+  <card>
+    <name>Prodigal Sorcerer</name>
+    <cost>2U/R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Wizard </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Prodigal Sorcerer enters, it deals 1 damage to any target.
+T: Prodigal Sorcerer deals 1 damage to any target.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>1</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>296/360</number>
+  </card>
+  <card>
+    <name>Rag Man</name>
+    <cost>2B/RB/R</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Demon </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Menace
+When Rag Man enters, you may have target player discard a card. They discard two cards instead if they are enchanted.
+Channel — 1B, Discard Rag Man: Search your library for a curse card, reveal it, put it into your hand, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>4</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>297/360</number>
+  </card>
+  <card>
+    <name>Raging River</name>
+    <cost>3W/UW/U</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose one:
+—Shuffle each creature into its owner’s library.
+—Shuffle each enchantment into its owner’s library.
+—Shuffle each artifact into its owner’s library.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>298/360</number>
+  </card>
+  <card>
+    <name>Regrowth</name>
+    <cost>1B/G</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Return target card from your graveyard to your hand.
+Flashback 2BG (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>299/360</number>
+  </card>
+  <card>
+    <name>Resurrection</name>
+    <cost>3W/B</cost>
+    <type>
+      <supertype>Sorcery</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Return target creature card from your graveyard to the battlefield.
+Flashback 3WB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>300/360</number>
+  </card>
+  <card>
+    <name>Ring of Immortals</name>
+    <cost>1B/GB/G</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Ring of Immortals enters, attach it to target creature you control.
+Equipped creature gets +1/+1.
+When equipped creature dies, return it to the battlefield tapped at the beginning of the next end step.
+Equip 4</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>301/360</number>
+  </card>
+  <card>
+    <name>Roc of Kher Ridges</name>
+    <cost>3R/W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Bird </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying, provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+1: Roc of Kher Ridges loses flying and gains first strike until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>302/360</number>
+  </card>
+  <card>
+    <name>Runesword</name>
+    <cost>W/BW/B</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Equipped creature has deathtouch and lifelink.
+When equipped creature dies, you draw two cards and lose 2 life.
+Equip 3</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>303/360</number>
+  </card>
+  <card>
+    <name>Sacrifice</name>
+    <cost>2B/R</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Target player sacrifices a creature.
+Flashback 5BR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>304/360</number>
+  </card>
+  <card>
+    <name>Savannah Lions</name>
+    <cost>1G/W</cost>
+    <type>
+      <supertype>Instant</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Kicker 2G
+Create a 2/1 white Cat creature token with first strike.
+If this spell was kicked, instead create two 2/1 white Cat creature tokens with first strike. Then each of those tokens fights target creature.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>305/360</number>
+  </card>
+  <card>
+    <name>Scryb Sprites</name>
+    <cost>1G/U</cost>
+    <type>
+      <supertype>Tribal Enchantment</supertype>
+      <subtype>Faerie </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Scryb Sprites enters, create a 1/1 green Faerie creature token with flying.
+3G/U, T: Create a 1/1 green Faerie creature token with flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>306/360</number>
+  </card>
+  <card>
+    <name>Season of the Witch</name>
+    <cost>2B/R</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Aura Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+At the beginning of combat on your turn, create an X/X black Witch creature token with haste, where X is equal to the number of curses attached to enchanted player. Sacrifice that token at end of combat.
+4B, T: Search your library for a curse card and reveal it. If you do, cast it without paying its mana cost then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>307/360</number>
+  </card>
+  <card>
+    <name>Simulacrum</name>
+    <cost>1W/BW/B</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>If a source would deal damage to you, instead prevent that damage and put that many soul counters on Simulacrum.
+When Simulacrum has ten or more soul counters on it, sacrifice it.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>308/360</number>
+  </card>
+  <card>
+    <name>Smoke</name>
+    <cost>2U/R</cost>
+    <type>
+      <supertype>Tribal Instant</supertype>
+      <subtype>Elemental </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Choose one:
+—Put a stun counter on up to two target creatures.
+—Put a stun counter on up to two target lands.
+Entwine—Tap an untapped elemental you control and put a stun counter on it. (Choose both if you pay the entwine cost.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>309/360</number>
+  </card>
+  <card>
+    <name>Soul Net</name>
+    <cost>1W/B</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever a creature dies, you gain 1 life.
+2W/B, T, Sacrifice Soul Net: Create two 1/1 white spirit creature tokens with flying.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>310/360</number>
+  </card>
+  <card>
+    <name>Stream of Life</name>
+    <cost>G/W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Gain 1 life.
+Channel — XG/W, Discard Stream of Life: Target player gains X+4 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>311/360</number>
+  </card>
+  <card>
+    <name>Sunglasses of Urza</name>
+    <cost>R/W</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Equipped creature gets +1/+0.
+Whenever equipped creature becomes blocked, Sunglasses of Urza deals 2 damage to defending player.
+Equip 1</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>312/360</number>
+  </card>
+  <card>
+    <name>Swamp Mosquito</name>
+    <cost>U/B</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Insect </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Flying
+Whenever Swamp Mosquito attacks and isn’t blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)
+2B, Exile Swamp Mosquito from your graveyard: Target player gets three poison counters.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>1</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>313/360</number>
+  </card>
+  <card>
+    <name>Tranquility</name>
+    <cost>2G/W</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whenever you cast an enchantment spell, draw a card.
+You may spend mana as though it were mana of any color to cast aura spells that target permanents you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>314/360</number>
+  </card>
+  <card>
+    <name>Varchild's Crusader</name>
+    <cost>2/WR/W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Varchild’s Crusader gets +1/+1 for each equipment and aura attached to it.
+As long as Varchild’s Crusader’s power is 5 of greater, it has double strike.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>315/360</number>
+  </card>
+  <card>
+    <name>Wall of Ice</name>
+    <cost>1G/UG/U</cost>
+    <type>
+      <supertype>Snow Creature</supertype>
+      <subtype>Elemental Wall </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Defender, trample
+Put a stun counter on creatures blocking or blocked by Wall of Ice.
+1G: Wall of Ice gets +2/+0 and loses defender until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>316/360</number>
+  </card>
+  <card>
+    <name>Wanderlust</name>
+    <cost>2G/U</cost>
+    <type>
+      <supertype>Enchantment</supertype>
+      <subtype>Curse </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Enchant player
+The first creature enchanted player casts each turn enters tapped with a stun counter on it.
+Channel — 2G, Discard Wanderlust: Search your library for a land card, reveal it, put it into your hand, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>317/360</number>
+  </card>
+  <card>
+    <name>Whirling Dervish</name>
+    <cost>2/WG/W</cost>
+    <type>
+      <supertype>Creature</supertype>
+      <subtype>Human Knight </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Whirling Dervish gets +1/+1 for each equipment and aura attached to it.
+As long as Whirling Dervish’s power is 5 or greater, it has trample.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>2</power>
+      <toughness>2</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>318/360</number>
+  </card>
+  <card>
+    <name>Winter's Night</name>
+    <cost>2R/GR/G</cost>
+    <type>
+      <supertype>Snow Enchantment</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add G or R.
+Whenever a snow permanent is tapped for mana, its controller adds C in addition to the mana that permanent produced.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>319/360</number>
+  </card>
+  <card>
+    <name>Glasses of Urza</name>
+    <cost>2/W2/U</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Glasses of Urza enters, scry 1 then draw a card.
+Equipped creature has ward 1 and “T: Scry 1.”
+Equip 1</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>320/360</number>
+  </card>
+  <card>
+    <name>Ankh of Mishra</name>
+    <cost>1</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add an amount of C equal to the number of enchantments you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>321/360</number>
+  </card>
+  <card>
+    <name>Apocalypse Chime</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>3H/W, T: Destroy target enchantment.
+3H/U, T: Target player mills 3.
+3H/B, T: Put a -1/-1 counter on target creature
+3H/R, T: Each creature attacks this turn if able.
+3H/G, T: Destroy target artifact.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>322/360</number>
+  </card>
+  <card>
+    <name>Arcum's Sleigh</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Snow Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Vigilance
+S: Arcum’s Sleigh can’t be blocked this turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or greater: This Vehicle becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>4</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>323/360</number>
+  </card>
+  <card>
+    <name>Basalt Monolith</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add CCC. Put a stun counter on Basalt Monolith.
+3: Target attacking or blocking creatures loses all abilities and becomes a 0/2 with defender. Activate this ability only once each turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>324/360</number>
+  </card>
+  <card>
+    <name>Black Lotus</name>
+    <cost>H</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H can be paid with C or 2 life. C represents colorless mana and can’t be paid for with colored mana.)
+T: Add one mana of any color.
+C, T, Sacrifice Black Lotus: Add three mana of any one color.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>325/360</number>
+  </card>
+  <card>
+    <name>Celestial Prism</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add one mana of any color.
+2WUBRG, T: Exile target permanent.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>326/360</number>
+  </card>
+  <card>
+    <name>Chromatic Armor</name>
+    <cost>X</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Equipped creature gets +1/+1.
+Remove a charge counter from Chromatic Armor: Equipped creature gains protection from the color of your choice until end of turn.
+Equip 1</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>327/360</number>
+  </card>
+  <card>
+    <name>Clockwork Beast</name>
+    <cost>6</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Beast </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample
+Clockwork Beast enters with nine +1/+1 counters on it.
+Whenever Clockwork Beast attacks or blocks, remove a +1/+1 counter from it at end of combat.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>0</power>
+      <toughness>0</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>328/360</number>
+  </card>
+  <card>
+    <name>Colossus of Sardia</name>
+    <cost>10</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Golem </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Ward 3
+Colossus of Sardia can’t be blocked by creatures with power 3 or less.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>11</power>
+      <toughness>11</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>329/360</number>
+  </card>
+  <card>
+    <name>Conservator</name>
+    <cost>0</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>1, T: Prevent the next 2 damage that would be dealt to you this turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>330/360</number>
+  </card>
+  <card>
+    <name>Copper Tablet</name>
+    <cost>2</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Copper Tablet enters with three leaflet counters on it.
+1, T, Remove a leaflet counter from Copper Tablet: Scry 2.
+When Copper Tablet has no charge counters on it, shuffle it into its owner’s library. (The shuffle triggers before the scry.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>331/360</number>
+  </card>
+  <card>
+    <name>Dingus Egg</name>
+    <cost>6</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Dingus Egg enters with two shell counters on it.
+2, T: Remove a shell counter from Dingus Egg. Then if there are no shell counters on it, sacrifice it and create a 8/8 colorless Dinosaur token with haste.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>332/360</number>
+  </card>
+  <card>
+    <name>Helm of Chatzuk</name>
+    <cost>1H</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>(H can be paid with C or 2 life)
+Equipped creature gets +2/+2 and has vigilance and menace.
+Equip H.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>333/360</number>
+  </card>
+  <card>
+    <name>The Hive</name>
+    <cost>5</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When The Hive enters, create five 1/1 colorless Wasp artifact creature tokens with flying.
+T: Creatures you control get +1/+1 until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>334/360</number>
+  </card>
+  <card>
+    <name>Illusionary Mask</name>
+    <cost>0</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Equipment </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>3: Manifest a card from your hand or the top card of your library (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it’s a creature card.)
+Equipped creature gets +1/+1 for each colorless nonland permanent you control.
+Equip 2</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>335/360</number>
+  </card>
+  <card>
+    <name>Jade Monolith</name>
+    <cost>4</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add one mana of any color.
+3, T: Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>336/360</number>
+  </card>
+  <card>
+    <name>Jade Statue</name>
+    <cost>4</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample
+When Jade Statue enters or leaves the battlefield, create a treasure token.
+Crew 2 (Tap any number of creatures you control with total power 2 or greater: This Vehicle becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>3</power>
+      <toughness>6</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>337/360</number>
+  </card>
+  <card>
+    <name>Juggernaut</name>
+    <cost>3</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype>Vehicle </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample, can’t be blocked by creatures with defender.
+Crew 3 (Tap any number of creatures you control with total power 3 or greater: This Vehicle becomes an artifact creature until end of turn.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>3</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>338/360</number>
+  </card>
+  <card>
+    <name>Living Artifact</name>
+    <cost>1</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Each evoke, kicker, and channel cost you pay costs 1 less.
+4: Living Artifact becomes a 3/3 artifact creature until end of turn.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>339/360</number>
+  </card>
+  <card>
+    <name>Mana Vault</name>
+    <cost>1</cost>
+    <type>
+      <supertype>Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Hexproof
+Sacrifice a land: Put two charge counters on Mana Vault. Activate this ability only during your upkeep and only once each turn.
+T: Add C for each charge counter on Mana Vault.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>340/360</number>
+  </card>
+  <card>
+    <name>North Star</name>
+    <cost>2</cost>
+    <type>
+      <supertype>Snow Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add C.
+2S, T: Search your library for a snow card, reveal it, put it into your hand, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>341/360</number>
+  </card>
+  <card>
+    <name>Obsianus Golem</name>
+    <cost>7</cost>
+    <type>
+      <supertype>Artifact Creature</supertype>
+      <subtype>Golem </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Trample, ward 2
+If a nonelemental source would deal damage to Obsianus Golem, prevent half that damage rounded down.</rules>
+    <flavor></flavor>
+    <stats>
+      <power>5</power>
+      <toughness>5</toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>342/360</number>
+  </card>
+  <card>
+    <name>Winter Orb</name>
+    <cost>2</cost>
+    <type>
+      <supertype>Snow Artifact</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add C.
+At the beginning of each player’s upkeep you may untap up to one snow permanent you control.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>343/360</number>
+  </card>
+  <card>
+    <name>Badlands</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Swamp Mountain </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Badlands enters tapped unless you pay 1.
+(T: Add B or R.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>344/360</number>
+  </card>
+  <card>
+    <name>Bayou</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Swamp Forest </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Bayou enters tapped unless you pay 1.
+(T: Add B or G.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>345/360</number>
+  </card>
+  <card>
+    <name>City of Brass</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add one mana of any color. City of Brass deals 1 damage to you.
+1: City of Brass becomes a 1/3 artifact creature until end of turn. It’s still a land. It doesn’t untap during its controller’s next untap step.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>346/360</number>
+  </card>
+  <card>
+    <name>Hot Springs</name>
+    <cost></cost>
+    <type>
+      <supertype>Snow Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add C.
+1, T: Prevent the next 1 damage that would be dealt to you this turn.
+1S, T: Gain 2 life.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>347/360</number>
+  </card>
+  <card>
+    <name>Howling Mine</name>
+    <cost></cost>
+    <type>
+      <supertype>Artifact Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>When Howling Mine enters, sacrifice it unless you pay 2.
+At the beginning of each player’s draw step, that player draws an additional card.
+T: Add one mana of any color. Howling Mine deals 1 damage to you.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>348/360</number>
+  </card>
+  <card>
+    <name>Ivory Tower</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add one mana of any color. Each opponent gains 1 life.
+8: Ivory Tower becomes a 3/3 Elephant creature with trample and indestructible until end of turn. It’s still a land.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>349/360</number>
+  </card>
+  <card>
+    <name>Koskun Falls</name>
+    <cost></cost>
+    <type>
+      <supertype>Snow Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add C.
+1, T: Add one mana of any color.
+3S, T: Return target creature card from your graveyard to your hand.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>350/360</number>
+  </card>
+  <card>
+    <name>Plateau</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Mountain Plains </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Plateau enters tapped unless you pay 1.
+(T: Add R or W.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>351/360</number>
+  </card>
+  <card>
+    <name>Savannah</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Forest Plains </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Savannah enters tapped unless you pay 1.
+(T: Add G or W.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>352/360</number>
+  </card>
+  <card>
+    <name>Scrubland</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Plains Swamp </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Scrubland enters tapped unless you pay 1.
+(T: Add W or B.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>353/360</number>
+  </card>
+  <card>
+    <name>Snow Fortress</name>
+    <cost></cost>
+    <type>
+      <supertype>Snow Artifact Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>T: Add one mana of any color. Use this mana only to cast snow spells or activate abilities of snow permanents.
+1S: Put a +1/+1 counter on Snow Fortress. It becomes a 0/0 creature until end of turn. It’s still a land.
+2S: Return Snow Fortress from your graveyard to the battlefield tapped.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>354/360</number>
+  </card>
+  <card>
+    <name>Taiga</name>
+    <cost></cost>
+    <type>
+      <supertype>Snow Land</supertype>
+      <subtype>Mountain Forest </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Taiga enters tapped unless you pay 1.
+(T: Add R or G)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>355/360</number>
+  </card>
+  <card>
+    <name>Thawing Glaciers</name>
+    <cost></cost>
+    <type>
+      <supertype>Snow Land</supertype>
+      <subtype></subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Thawing Glaciers enters tapped.
+T: Add C.
+1S, T, Sacrifice Thawing Glaciers: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle.</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>356/360</number>
+  </card>
+  <card>
+    <name>Tropical Island</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Forest Island </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Tropical Island enters tapped unless you pay 1.
+(T: Add G or U.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>357/360</number>
+  </card>
+  <card>
+    <name>Tundra</name>
+    <cost></cost>
+    <type>
+      <supertype>Snow Land</supertype>
+      <subtype>Plains Island </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Tundra enters tapped unless you pay 1.
+(T: Add W or U.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>358/360</number>
+  </card>
+  <card>
+    <name>Underground River</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Island Swamp </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Underground River enters tapped unless you pay 1.
+(T: Add U or B.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>359/360</number>
+  </card>
+  <card>
+    <name>Volcanic Island</name>
+    <cost></cost>
+    <type>
+      <supertype>Land</supertype>
+      <subtype>Island Mountain </subtype>
+    </type>
+    <rarity>C</rarity>
+    <rules>Volcanic Island enters tapped unless you pay 1.
+(T: Add U or R.)</rules>
+    <flavor></flavor>
+    <stats>
+      <power></power>
+      <toughness></toughness>
+    </stats>
+    <illustrator></illustrator>
+    <number>360/360</number>
+  </card>
+</spoiler>

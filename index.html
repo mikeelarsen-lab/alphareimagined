@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alpha Reimagined – Cube Gallery</title>
+  <style>
+    /* Reset & Core Aesthetics */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #121212; color: #fff; padding-bottom: 40px; }
+    
+    /* STICKY HEADER SECTION */
+    .sticky-header {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+      background: rgba(24, 24, 24, 0.95);
+      -webkit-backdrop-filter: blur(10px);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid #2d2d2d;
+      padding: 15px 20px;
+      z-index: 100;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    }
+    
+    h1 { font-size: 1.5rem; margin-bottom: 12px; text-align: center; font-weight: 700; letter-spacing: -0.5px; }
+
+    .filters { 
+      display: flex; 
+      gap: 8px; 
+      justify-content: center;
+      flex-wrap: wrap; 
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    
+    button { 
+      background: #252525; 
+      color: #aaa; 
+      border: 1px solid #3a3a3a; 
+      padding: 6px 12px; 
+      cursor: pointer; 
+      border-radius: 6px; 
+      font-size: 0.85rem;
+      font-weight: 600;
+      transition: all 0.2s ease;
+    }
+    button:hover { background: #333; color: #fff; border-color: #555; }
+    button.active { background: #0070f3; color: #fff; border-color: #0070f3; box-shadow: 0 0 10px rgba(0,112,243,0.3); }
+
+    /* RESPONSIVE DISPLAY GRID */
+    .grid-container { 
+      display: grid; 
+      /* Desktop Default: Fluid sizing down to 200px */
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); 
+      gap: 16px; 
+      padding: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    
+    /* Mobile Override: Exactly 2 columns side-by-side */
+    @media (max-width: 600px) {
+      .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px;
+      }
+      h1 { font-size: 1.2rem; margin-bottom: 8px; }
+      .sticky-header { padding: 10px; }
+      button { padding: 5px 10px; font-size: 0.75rem; }
+    }
+
+    .card-item { 
+      background: #1a1a1a; 
+      border-radius: 12px; 
+      padding: 8px; 
+      text-align: center; 
+      border: 1px solid #2a2a2a; 
+      cursor: pointer;
+      transition: transform 0.2s ease, border-color 0.2s ease;
+    }
+    .card-item:hover { 
+      transform: translateY(-4px); 
+      border-color: #444; 
+    }
+    .card-item img { 
+      max-width: 100%; 
+      height: auto; 
+      border-radius: 8px; 
+      display: block; 
+      margin: 0 auto 6px; 
+    }
+    .card-name { font-size: 0.8rem; color: #888; font-weight: 500; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; }
+
+    /* MODAL POPUP PREVIEW SYSTEM */
+    .modal {
+      display: none; 
+      position: fixed; 
+      z-index: 1000; 
+      left: 0; 
+      top: 0; 
+      width: 100%; 
+      height: 100%; 
+      background-color: rgba(0, 0, 0, 0.85);
+      -webkit-backdrop-filter: blur(5px);
+      backdrop-filter: blur(5px);
+      justify-content: center;
+      align-items: center;
+      opacity: 0;
+      transition: opacity 0.2s ease;
+    }
+    .modal.show { display: flex; opacity: 1; }
+    
+    .modal-content-wrapper {
+      position: relative;
+      max-width: 90%;
+      max-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .modal-content {
+      max-width: 100%;
+      max-height: 80vh;
+      object-fit: contain;
+      border-radius: 4% / 4%; /* Matches standard MTG card corner ratios */
+      box-shadow: 0 10px 40px rgba(0,0,0,0.8);
+      animation: zoomIn 0.2s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+
+    .close-btn {
+      position: absolute;
+      top: -45px;
+      right: 0;
+      color: #fff;
+      font-size: 35px;
+      font-weight: 300;
+      cursor: pointer;
+      width: 40px;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+      background: rgba(255,255,255,0.1);
+      border-radius: 50%;
+    }
+    .close-btn:hover { background: rgba(255,255,255,0.2); }
+
+    @keyframes zoomIn {
+      from { transform: scale(0.9); opacity: 0; }
+      to { transform: scale(1); opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sticky Top Bar Structure -->
+  <div class="sticky-header">
+    <h1>Alpha Reimagined</h1>
+    <div class="filters">
+      <button onclick="filterColor('all')" class="active">All Cards</button>
+      <button onclick="filterColor('W')">White</button>
+      <button onclick="filterColor('U')">Blue</button>
+      <button onclick="filterColor('B')">Black</button>
+      <button onclick="filterColor('R')">Red</button>
+      <button onclick="filterColor('G')">Green</button>
+      <button onclick="filterColor('M')">Multicolor</button>
+      <button onclick="filterColor('C')">Colorless</button>
+      <button onclick="filterColor('L')">Lands</button>
+    </div>
+  </div>
+
+  <!-- Dynamic Card Display Grid Container -->
+  <div id="cube-grid" class="grid-container">Loading cards...</div>
+
+  <!-- Big Image Preview Modal -->
+  <div id="card-modal" class="modal" onclick="closeModal()">
+    <div class="modal-content-wrapper" onclick="event.stopPropagation()">
+      <span class="close-btn" onclick="closeModal()">&times;</span>
+      <img id="modal-img" class="modal-content" src="" alt="Card Preview">
+    </div>
+  </div>
+
+  <script>
+    let allCards = [];
+
+    // 1. Data Retrieval Pipeline
+    fetch('cube.xml')
+      .then(response => response.text())
+      .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+      .then(data => {
+        const cards = data.getElementsByTagName("card");
+        for (let i = 0; i < cards.length; i++) {
+          allCards.push(parseCard(cards[i]));
+        }
+        displayCards(allCards);
+      })
+      .catch(err => {
+        document.getElementById('cube-grid').innerText = "Error loading XML data.";
+        console.error(err);
+      });
+
+    // 2. XML Item Translation Engine
+function parseCard(cardXml) {
+  // trim spaces off front and back, then save it as new text
+  const rawName = cardXml.getElementsByTagName("name")[0]?.textContent || "Unnamed";
+  const name = rawName.trim(); 
+  
+  const cost = cardXml.getElementsByTagName("cost")[0]?.textContent || "";
+  const typeStr = cardXml.getElementsByTagName("supertype")[0]?.textContent || "";
+      
+      const colorCategory = determineCategory(cost, typeStr);
+
+      // Clean special characters out to sync up with direct MSE system outputs
+      const msaSafeName = name.replace(/['":;?]/g, "").trim();
+      const imgSrc = `images/${encodeURIComponent(msaSafeName)}.png`;
+
+      return { name, colorCategory, imgSrc };
+    }
+
+    // 3. Structural Cost Filter Rules
+    function determineCategory(cost, typeStr) {
+      if (typeStr.toLowerCase().includes("land")) return "L";
+      if (!cost) return "C"; 
+
+      const components = cost.split('/');
+      const cleanedComponents = components.map(part => part.replace(/[0-9XSchHP]/gi, ""));
+
+      let uniqueColors = new Set();
+      cleanedComponents.forEach(part => {
+        for (let char of part) {
+          if (['W', 'U', 'B', 'R', 'G'].includes(char.toUpperCase())) {
+            uniqueColors.add(char.toUpperCase());
+          }
+        }
+      });
+
+      if (uniqueColors.size === 0) return "C"; 
+      if (uniqueColors.size > 1) return "M";   
+      return [...uniqueColors][0]; 
+    }
+
+    // 4. View Generation Loop
+    function displayCards(cardsToDisplay) {
+      const grid = document.getElementById('cube-grid');
+      if(cardsToDisplay.length === 0) {
+        grid.innerHTML = "<p style='grid-column: 1/-1; text-align: center; color: #555; padding: 40px;'>No cards match this filter.</p>";
+        return;
+      }
+      grid.innerHTML = cardsToDisplay.map(card => `
+        <div class="card-item" onclick="openModal('${card.imgSrc.replace(/'/g, "\\'")}')">
+          <img src="${card.imgSrc}" alt="${card.name}" loading="lazy" onerror="this.onerror=null; this.src='images/placeholder.png';" />
+          <div class="card-name">${card.name}</div>
+        </div>
+      `).join('');
+    }
+
+    // 5. Interface Action Filters
+    function filterColor(category) {
+      window.scrollTo({ top: 0, behavior: 'instant' });
+
+      document.querySelectorAll('.filters button').forEach(btn => btn.classList.remove('active'));
+      
+      const clickedBtn = Array.from(document.querySelectorAll('.filters button')).find(btn => 
+        btn.getAttribute('onclick').includes(`'${category}'`)
+      );
+      if (clickedBtn) clickedBtn.classList.add('active');
+
+      if (category === 'all') {
+        displayCards(allCards);
+      } else {
+        const filtered = allCards.filter(card => card.colorCategory === category);
+        displayCards(filtered);
+      }
+    }
+
+    // 6. Modal Engine Trigger Subroutines
+    function openModal(imgSrc) {
+      const modal = document.getElementById('card-modal');
+      const modalImg = document.getElementById('modal-img');
+      modalImg.src = imgSrc;
+      modal.classList.add('show');
+      document.body.style.overflow = 'hidden'; // Lock background body track scroll
+    }
+
+    function closeModal() {
+      const modal = document.getElementById('card-modal');
+      modal.classList.remove('show');
+      document.body.style.overflow = ''; // Release scroll locking mechanics
+    }
+
+    // ESC key closes the modal display setup automatically
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeModal();
+    });
+  </script>
+</body>
+</html>
