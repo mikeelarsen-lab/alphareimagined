@@ -58,6 +58,36 @@
       max-width: 1400px;
       margin: 0 auto;
     }
+
+    .controls-wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 20px;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .search-container {
+      position: relative;
+      min-width: 250px;
+    }
+
+    .search-input {
+      width: 100%;
+      background: #1a1a1a;
+      color: #fff;
+      border: 1px solid #3a3a3a;
+      padding: 8px 12px;
+      border-radius: 6px;
+      font-size: 0.85rem;
+      transition: all 0.2s ease;
+    }
+    .search-input:focus {
+      outline: none;
+      border-color: #0070f3;
+      box-shadow: 0 0 8px rgba(0,112,243,0.2);
+    }
     
     /* Mobile Override: Exactly 2 columns side-by-side */
     @media (max-width: 600px) {
@@ -69,6 +99,18 @@
       h1 { font-size: 1.2rem; margin-bottom: 8px; }
       .sticky-header { padding: 10px; }
       button { padding: 5px 10px; font-size: 0.75rem; }
+
+      .controls-wrapper {
+        flex-direction: column;
+        gap: 12px;
+        align-items: stretch;
+      }
+      .filters {
+        justify-content: center;
+      }
+      .search-container {
+        width: 100%;
+      }
     }
 
     .card-item { 
@@ -158,16 +200,23 @@
   <!-- Sticky Top Bar Structure -->
   <div class="sticky-header">
     <h1>Alpha Reimagined</h1>
-    <div class="filters">
-      <button onclick="filterColor('all')" class="active">All Cards</button>
-      <button onclick="filterColor('W')">White</button>
-      <button onclick="filterColor('U')">Blue</button>
-      <button onclick="filterColor('B')">Black</button>
-      <button onclick="filterColor('R')">Red</button>
-      <button onclick="filterColor('G')">Green</button>
-      <button onclick="filterColor('M')">Multicolor</button>
-      <button onclick="filterColor('C')">Colorless</button>
-      <button onclick="filterColor('L')">Lands</button>
+
+    <div class="controls-wrapper">
+      <div class="filters">
+        <button onclick="filterColor('all')" class="active">All Cards</button>
+        <button onclick="filterColor('W')">White</button>
+        <button onclick="filterColor('U')">Blue</button>
+        <button onclick="filterColor('B')">Black</button>
+        <button onclick="filterColor('R')">Red</button>
+        <button onclick="filterColor('G')">Green</button>
+        <button onclick="filterColor('M')">Multicolor</button>
+        <button onclick="filterColor('C')">Colorless</button>
+        <button onclick="filterColor('L')">Lands</button>
+      </div>
+
+      <div class="search-container">
+        <input type="text" id="card-search" class="search-input" placeholder="Search card names..." oninput="handleSearch()">
+      </div>
     </div>
   </div>
 
@@ -184,6 +233,8 @@
 
   <script>
     let allCards = [];
+
+    let currentCategory = 'all'; // Tracks the current active filter tab
 
     // 1. Data Retrieval Pipeline
     fetch('cube.xml')
@@ -258,7 +309,10 @@ function parseCard(cardXml) {
 
     // 5. Interface Action Filters
     function filterColor(category) {
-      window.scrollTo({ top: 0, behavior: 'instant' });
+      currentCategory = category; // Update global tab memory
+      
+      // Clear out the search bar when clicking a new color tab
+      document.getElementById('card-search').value = '';
 
       document.querySelectorAll('.filters button').forEach(btn => btn.classList.remove('active'));
       
@@ -267,12 +321,32 @@ function parseCard(cardXml) {
       );
       if (clickedBtn) clickedBtn.classList.add('active');
 
-      if (category === 'all') {
-        displayCards(allCards);
-      } else {
-        const filtered = allCards.filter(card => card.colorCategory === category);
-        displayCards(filtered);
+      // Call the new combination filter instead of displaying directly
+      applyCombinedFilters();
+    }
+
+    // Triggers automatically whenever a user types text into the search bar
+    function handleSearch() {
+      applyCombinedFilters();
+    }
+
+    // Merges the search term AND selected tab parameters smoothly
+    function applyCombinedFilters() {
+      const query = document.getElementById('card-search').value.toLowerCase().trim();
+      
+      let filtered = allCards;
+
+      // Step 1: Filter by color category if a specific tab is picked
+      if (currentCategory !== 'all') {
+        filtered = filtered.filter(card => card.colorCategory === currentCategory);
       }
+
+      // Step 2: Further filter down results by search query string match
+      if (query !== '') {
+        filtered = filtered.filter(card => card.name.toLowerCase().includes(query));
+      }
+
+      displayCards(filtered);
     }
 
     // 6. Modal Engine Trigger Subroutines
